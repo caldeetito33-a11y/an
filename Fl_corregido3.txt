@@ -1,0 +1,2029 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TELEMAX" tvg-name="TELEMAX" tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+https://sparkletvonline.com/comecalzon2/canal1?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="AMERICA_TV" tvg-name="AMERICA TV " tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://sparkletvonline.com/comecalzon2/canal2?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+https://sparkletvonline.com/comecalzon2/canal3?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CRONICA_TV" tvg-name="CRONICA TV" tvg-logo="https://static.flow.com.ar/images/269/CH_LOGO/60/40/0/0/80757659073986.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+https://sparkletvonline.com/comecalzon2/canal4?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+https://sparkletvonline.com/comecalzon2/canal5?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_IP" tvg-name="CANAL AR 12" tvg-logo="https://www.totalmedios.com/img/noticias/2025/11/691107e84fdd3_838x390.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+https://sparkletvonline.com/comecalzon2/canal6?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TV_PUBLICA" tvg-name="TV PUBLICA" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+https://sparkletvonline.com/comecalzon2/canal7?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ENCUENTRO_TV" tvg-name="ENCUENTRO TV" tvg-logo="https://static.flow.com.ar/images/686/CH_LOGO/60/40/0/0/1239356307477.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+https://sparkletvonline.com/comecalzon2/canal8?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_9" tvg-name="CANAL 9" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+https://sparkletvonline.com/comecalzon2/canal9?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ARGENTINISIMA_SATELITAL" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="https://i.ibb.co/G0zCDL0/descarga-1.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
+https://sparkletvonline.com/comecalzon2/canal10?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFE" tvg-name="TELEFE" tvg-logo="https://static.flow.com.ar/images/69/CH_LOGO/60/40/0/0/65442435072354.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+https://sparkletvonline.com/comecalzon2/canal11?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="LN_LA_NACIÓN" tvg-name="LN+ LA NACIÓN" tvg-logo="https://static.flow.com.ar/images/1081/CH_LOGO/60/40/0/0/30427098073644.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+https://sparkletvonline.com/comecalzon2/canal12?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="EL_TRECE" tvg-name="EL TRECE " tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+https://sparkletvonline.com/comecalzon2/canal13?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TN_NOTICIAS" tvg-name="TN NOTICIAS" tvg-logo="https://static.flow.com.ar/images/70/CH_LOGO/60/40/0/0/22986115071847.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://sparkletvonline.com/comecalzon2/canal14?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_26" tvg-name="CANAL 26" tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+https://sparkletvonline.com/comecalzon2/canal15?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+https://sparkletvonline.com/comecalzon2/canal16?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="MIXTV" tvg-name="MIX TV" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/01/TAVI_Mix-TV_-Kuarzo-1.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+https://sparkletvonline.com/comecalzon2/canal277?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CIUDAD_MAGAZINE" tvg-name="CIUDAD MAGAZINE" tvg-logo="https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+https://sparkletvonline.com/comecalzon2/canal108?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DIPUTADOS_TV" tvg-name="DIPUTADOS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
+https://sparkletvonline.com/comecalzon2/canal19?access=aDE54xldo0dff|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FLOW_EVENTOS_1" tvg-name="FLOW EVENTOS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+https://sparkletvonline.com/comecalzon2/canal20?access=aDE54xldo0dff|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Eventos_2_HD" tvg-name="FLOW EVENTOS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
+https://sparkletvonline.com/comecalzon2/canal209?access=aDE54xldo0dff|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TYC SPORTS" tvg-name="TYC SPORTS" tvg-logo="https://i.ibb.co/KhbbLzP/tycsports.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://sparkletvonline.com/comecalzon2/canal22?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TYC SPORTS INTERNACIONAL" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.ibb.co/KhbbLzP/tycsports.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://sparkletvonline.com/comecalzon2/canal23?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://i.ibb.co/6rKWLg8/tntsports.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal289
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal289
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://sparkletvonline.com/comecalzon2/canal26?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+https://sparkletvonline.com/comecalzon2/canal27?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+https://sparkletvonline.com/comecalzon2/canal28?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN3_Uy-Py" tvg-name="ESPN 3 UY-PY" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
+https://sparkletvonline.com/comecalzon2/canal292?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/pJK6xQ0/espn-4B.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+https://sparkletvonline.com/comecalzon2/canal29?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://i.ibb.co/6bvjxGP/espn-5B.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+https://sparkletvonline.com/comecalzon2/canal30?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://robertoto1234.github.io/a/imb/espn6.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://sparkletvonline.com/comecalzon2/canal240?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-name="ESPN 7" tvg-logo="https://robertoto1234.github.io/a/imb/espn7.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://sparkletvonline.com/comecalzon2/canal241?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+https://sparkletvonline.com/comecalzon2/canal31?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+https://sparkletvonline.com/comecalzon2/canal32?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-name="FOX SPORTS 3" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+https://sparkletvonline.com/comecalzon2/canal33?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FSPREMIUM" tvg-name="FS PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8bMgm4g5396vnVx2cy7VbE2CegdwxmEC5-5bI0jB5cTaYHCP2yCt3eE55GDFmakbQw0&usqp=CAU" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal291?access=aDE54xldo0dff
+
+#EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://i.ibb.co/br0L72h/deportv.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
+https://sparkletvonline.com/comecalzon2/canal34?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="AMERICA SPORTS" tvg-name="AMERICA SPORTS" tvg-logo="https://i.ibb.co/1rMMbhK/unnamed-6.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
+https://sparkletvonline.com/comecalzon2/canal35?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="REALMADRID" tvg-name="REAL MADRID TV" tvg-logo="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal292
+
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://i.ibb.co/rcDM8mf/ar-nba-tv-m.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
+https://sparkletvonline.com/comecalzon2/canal36?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="GARAGE TV" tvg-name="GARAGE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
+https://sparkletvonline.com/comecalzon2/canal37?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PX SPORTS" tvg-name="PX SPORTS" tvg-logo="https://i.ibb.co/LQPW5ny/pxsports-orig.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
+https://sparkletvonline.com/comecalzon2/canal38?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Show_Sports" tvg-name="SHOW SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Showsport.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
+https://sparkletvonline.com/comecalzon2/canal309?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA" tvg-name="BEIN SPORTS EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal293
+
+#EXTINF:-1 tvg-id="poker" tvg-name="WPT" tvg-logo="https://robertoto1234.github.io/a/imb/worldpokertour.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal294
+
+#EXTINF:-1 tvg-id="ESPORTS" tvg-name="E-SPORTS GAMER" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal295
+
+#EXTINF:-1 tvg-id="eventos3" tvg-name="FLOW EVENTOS 3 HD" tvg-logo="https://static.flow.com.ar/images/7057/CH_LOGO/60/40/0/0/40033184071573.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b2fdf5a35d01a6ac888b7e8b1a2ddad:2c088b42e71dba1c572e7f04d2934430
+https://sparkletvonline.com/comecalzon2/canal236?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CINE_AR" tvg-name="CINE AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+https://sparkletvonline.com/comecalzon2/canal40?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
+https://sparkletvonline.com/comecalzon2/canal41?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
+https://sparkletvonline.com/comecalzon2/canal42?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="EUROPA EUROPA" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
+https://sparkletvonline.com/comecalzon2/canal44?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
+https://sparkletvonline.com/comecalzon2/canal45?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/hV2MwGM/tnthd.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
+https://sparkletvonline.com/comecalzon2/canal46?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0Fb9ncz/descarga-7.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
+https://sparkletvonline.com/comecalzon2/canal47?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/MZYTrkg/descarga-9.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
+https://sparkletvonline.com/comecalzon2/canal48?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://i.ibb.co/wCQcFwJ/dhe.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+https://sparkletvonline.com/comecalzon2/canal49?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
+https://sparkletvonline.com/comecalzon2/canal50?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://i.ibb.co/vqF1RTN/co-space-hd-m.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+https://sparkletvonline.com/comecalzon2/canal51?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
+https://sparkletvonline.com/comecalzon2/canal52?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="USA_Network" tvg-name="USA NETWORK" tvg-logo="https://static.flow.com.ar/images/9497/CH_LOGO/60/40/0/0/49781180078327.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
+https://sparkletvonline.com/comecalzon2/canal211?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Golden" tvg-name="GOLDEN" tvg-logo="https://static.flow.com.ar/images/9717/CH_LOGO/60/40/0/0/8863700607401.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
+https://sparkletvonline.com/comecalzon2/canal212?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+https://sparkletvonline.com/comecalzon2/canal54?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES" tvg-logo="https://i.ibb.co/t4nrcdk/Sony-Movies-Logo-svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+https://sparkletvonline.com/comecalzon2/canal55?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="UNIVERSAL STUDIO" tvg-logo="https://i.ibb.co/s9JprFc/unnamed-7.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
+https://sparkletvonline.com/comecalzon2/canal43?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+https://sparkletvonline.com/comecalzon2/canal56?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
+https://sparkletvonline.com/comecalzon2/canal281?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.ibb.co/YLq4CZk/unicomedy.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
+https://sparkletvonline.com/comecalzon2/canal57?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.ibb.co/Pj1z13N/unicrime.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
+https://sparkletvonline.com/comecalzon2/canal58?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/TLfZbYS/unipremiere.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
+https://sparkletvonline.com/comecalzon2/canal59?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/Zz9MB5Y/unireality.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
+https://sparkletvonline.com/comecalzon2/canal60?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/VjjgVWW/hbo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+https://sparkletvonline.com/comecalzon2/canal61?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/mRXxtcT/hbo2.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+https://sparkletvonline.com/comecalzon2/canal62?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/bJYvCRv/hbofamily.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+https://sparkletvonline.com/comecalzon2/canal63?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/ZXhsTTP/hbomundi.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
+https://sparkletvonline.com/comecalzon2/canal64?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/4RvrQtL/hbomas.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+https://sparkletvonline.com/comecalzon2/canal65?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/7p0mzQW/hbopop.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
+https://sparkletvonline.com/comecalzon2/canal66?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/1zvrLR0/hbosignature.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
+https://sparkletvonline.com/comecalzon2/canal67?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/WsV16kp/hboxtreme.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
+https://sparkletvonline.com/comecalzon2/canal68?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://static.flow.com.ar/images/263/CH_LOGO/60/40/0/0/92889820071862.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
+https://sparkletvonline.com/comecalzon2/canal69?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
+https://sparkletvonline.com/comecalzon2/canal70?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://static.flow.com.ar/images/261/CH_LOGO/60/40/0/0/98290467071250.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+https://sparkletvonline.com/comecalzon2/canal71?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+https://sparkletvonline.com/comecalzon2/canal72?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://static.flow.com.ar/images/714/CH_LOGO/60/40/0/0/96618789072910.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal339
+
+#EXTINF:-1 tvg-id="A3CINE" tvg-name="A3CINE" tvg-logo="https://static.flow.com.ar/images/8177/CH_LOGO/60/40/0/0/17553447073627.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
+https://sparkletvonline.com/comecalzon2/canal74?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="A3SERIES" tvg-name="A3SERIES" tvg-logo="https://static.flow.com.ar/images/1161/CH_LOGO/60/40/0/0/99608630073988.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
+https://sparkletvonline.com/comecalzon2/canal75?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
+https://sparkletvonline.com/comecalzon2/canal76?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_a" tvg-name="CANAL A" tvg-logo="https://static.flow.com.ar/images/667/CH_LOGO/60/40/0/0/846786600758.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
+https://sparkletvonline.com/comecalzon2/canal215?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ARCHIVOSEXTRATERRESTRES" tvg-name="ARCHIVOS EXTRATERRESTRES" tvg-logo="http://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal296
+
+#EXTINF:-1 tvg-id="HISTORIASTUMBA" tvg-name="HISTORIAS DE ULTRATUMBA" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal297
+
+#EXTINF:-1 tvg-id="MISTERIO" tvg-name="MISTERIOS" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/thumbnail.jpg" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal298
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2iIcIiiM6HQd3FzvOSovQy0UUYVC6LHj7BQ&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
+https://sparkletvonline.com/comecalzon2/canal77?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/jkfB4HH/H2-logo.webp" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
+https://sparkletvonline.com/comecalzon2/canal78?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/60/40/0/0/72827036071623.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
+https://sparkletvonline.com/comecalzon2/canal238?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL SUR" tvg-name="DISCOVERY CHANNEL SUR" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+https://sparkletvonline.com/comecalzon2/canal79?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY H&H" tvg-name="DISCOVERY H&H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-Sh9RZyo5DuGNuqa2BIsiVeE17uhnReO6w&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
+https://sparkletvonline.com/comecalzon2/canal80?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-name="DISCOVERY ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwo22A-pPDJiH4PPJ5ugo5qZ19vGjkDwjgA&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
+https://sparkletvonline.com/comecalzon2/canal81?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://static.flow.com.ar/images/680/CH_LOGO/60/40/0/0/8147709107493.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
+https://sparkletvonline.com/comecalzon2/canal82?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
+https://sparkletvonline.com/comecalzon2/canal83?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
+https://sparkletvonline.com/comecalzon2/canal84?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY TLC" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
+https://sparkletvonline.com/comecalzon2/canal85?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrm9clKWfFuQsgTJsjHssu-kvsBIgMVmSBEw&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
+https://sparkletvonline.com/comecalzon2/canal86?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/X3f0JTF/natgeologo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+https://sparkletvonline.com/comecalzon2/canal87?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
+https://sparkletvonline.com/comecalzon2/canal89?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SUN CHANNEL" tvg-name="SUN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
+https://sparkletvonline.com/comecalzon2/canal90?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="GOURMET" tvg-name="GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
+https://sparkletvonline.com/comecalzon2/canal91?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
+https://sparkletvonline.com/comecalzon2/canal92?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+https://sparkletvonline.com/comecalzon2/canal93?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+https://sparkletvonline.com/comecalzon2/canal94?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/about-dc_6bda6e5e.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
+https://sparkletvonline.com/comecalzon2/canal95?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
+https://sparkletvonline.com/comecalzon2/canal96?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnzL2pFD1EjL94N4wd-hgOZD_XWS7KpDfOQ&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+https://sparkletvonline.com/comecalzon2/canal97
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+https://sparkletvonline.com/comecalzon2/canal98?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/HPnbTg4/babytv.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
+https://sparkletvonline.com/comecalzon2/canal99?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+https://sparkletvonline.com/comecalzon2/canal100?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PAKA PAKA" tvg-name="PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+https://sparkletvonline.com/comecalzon2/canal101?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="KIDOO" tvg-name="KIDOO" tvg-logo="https://robertoto1234.github.io/a/imb/kidoo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
+https://sparkletvonline.com/comecalzon2/canal252?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Plim_Plim" tvg-name="Plim_Plim" tvg-logo="https://plimplim.tv/wp-content/uploads/2024/01/logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
+https://sparkletvonline.com/comecalzon2/canal291?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://i.ibb.co/pzxBWZj/Dream-Works-Channel.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+https://sparkletvonline.com/comecalzon2/canal102?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BRAVO_TV" tvg-name="Bravo TV" tvg-logo="https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+https://sparkletvonline.com/comecalzon2/canal103?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_DE_LAS_ESTRELLAS" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.ibb.co/ZKNb722/Las-Estrellas-logo-2016.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
+https://sparkletvonline.com/comecalzon2/canal104?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
+https://sparkletvonline.com/comecalzon2/canal105?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TNT_NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.ibb.co/jVMmjN6/descarga-8.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+https://sparkletvonline.com/comecalzon2/canal106?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Telenovelas" tvg-name="TELENOVELAS" tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60cb38a05880cd0eb429f71398609540:c251aac7943c0d1324aa9a4129f3afd4
+https://sparkletvonline.com/comecalzon2/canal213?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_LUZ" tvg-name="CANAL LUZ" tvg-logo="https://static.flow.com.ar/images/1254/CH_LOGO/60/40/0/0/6858782907349.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7523ea5a2da78c465d928be1d81e2a5:870ad69e98abd52b443bd8f0204b3bc4
+https://sparkletvonline.com/comecalzon2/canal107?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="VOLVER" tvg-name="VOLVER" tvg-logo="https://i.ibb.co/Ch97MGg/volver.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+https://sparkletvonline.com/comecalzon2/canal18?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANALRURAL" tvg-name="CANAL RURAL" tvg-logo="https://i.ytimg.com/vi/0eA-D1S7jRE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAEWrcWB4jqFwYIKRIOvmJKxFZnQ" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
+https://sparkletvonline.com/comecalzon2/canal290?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Latam_Rural" tvg-name="Latam Rural" tvg-logo="https://yt3.googleusercontent.com/T19F9Wj_sQh4LquJxiJX_xa7tnSTlrzeQoomdCOxjyzdXpLHkTvI3fn3bRg08cIhV7a0ZVi5iA=s160-c-k-c0x00ffffff-no-rj" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abdfd83824e9ba585f74fb72c647aa4f:9967e06e39893998d16714988d9d87f1
+https://sparkletvonline.com/comecalzon2/canal293?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLbq8LxrdBtajQGooycs6pteoaeMGyvJyIg&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
+https://sparkletvonline.com/comecalzon2/canal109?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="EURO_CHANNEL" tvg-name="EURO CHANNEL" tvg-logo="https://i.ibb.co/54nWzWt/euroch.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
+https://sparkletvonline.com/comecalzon2/canal110?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://static.flow.com.ar/images/690/CH_LOGO/60/40/0/0/477115640764.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
+https://sparkletvonline.com/comecalzon2/canal111?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FOOD_NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://static.flow.com.ar/images/901/CH_LOGO/60/40/0/0/87811089073450.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
+https://sparkletvonline.com/comecalzon2/canal112?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HOLA_TV" tvg-name="HOLA TV" tvg-logo="https://i.ibb.co/HKpkn0x/holatv.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
+https://sparkletvonline.com/comecalzon2/canal113?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="KZO_ENTERTAINMENT" tvg-name="KZO ENTERTAINMENT" tvg-logo="https://i.ibb.co/GWyrYZY/kzo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+https://sparkletvonline.com/comecalzon2/canal114?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
+https://sparkletvonline.com/comecalzon2/canal115?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BOLIVISION" tvg-name="BOLIVISION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/BOLIVISION.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal305
+
+#EXTINF:-1 tvg-id="METRO" tvg-name="METRO" tvg-logo="https://i.ibb.co/pw6FfGS/metro.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+https://sparkletvonline.com/comecalzon2/canal117?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ORBE_21" tvg-name="ORBE 21" tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
+https://sparkletvonline.com/comecalzon2/canal118?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SANTA_MARIA" tvg-name="SANTA MARIA" tvg-logo="https://i.ibb.co/b1fNV1N/santamaria.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
+https://sparkletvonline.com/comecalzon2/canal119?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="QUIERO TV" tvg-name="QUIERO TV" tvg-logo="https://i.ibb.co/4mXYMzX/quiero.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+https://sparkletvonline.com/comecalzon2/canal121?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
+https://sparkletvonline.com/comecalzon2/canal122?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/HqPNtN1/mtv.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
+https://sparkletvonline.com/comecalzon2/canal123?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="VORTERIX" tvg-name="VORTERIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
+https://sparkletvonline.com/comecalzon2/canal125?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL DE MUSICA" tvg-name="CANAL DE MUSICA" tvg-logo="https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
+https://sparkletvonline.com/comecalzon2/canal126?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TIKTOKRADIO" tvg-name="TIKTOK RADIO" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/featuredImage_1758309480507.jpg" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal342
+
+#EXTINF:-1 tvg-id="ALLEGRO" tvg-name="ALLEGRO" tvg-logo="https://robertoto1234.github.io/a/imb/allegro.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
+https://sparkletvonline.com/comecalzon2/canal256?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FLOW_MUSIC_XP" tvg-name="FLOW MUSIC XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
+https://sparkletvonline.com/comecalzon2/canal39?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FRANCE 24 ESPAÑOL" tvg-name="FRANCE 24 ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4IUKux_aWZEcbr2KJn-xl4yyhs4LYfZrFg&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
+https://sparkletvonline.com/comecalzon2/canal127?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c
+https://sparkletvonline.com/comecalzon2/canal128?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
+https://sparkletvonline.com/comecalzon2/canal129?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNNE" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+https://sparkletvonline.com/comecalzon2/canal130?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
+https://sparkletvonline.com/comecalzon2/canal282?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://robertoto1234.github.io/a/imb/rt.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal308
+
+#EXTINF:-1 tvg-id="rai" tvg-name="RAI" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/60/40/0/0/577119940729.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
+https://sparkletvonline.com/comecalzon2/canal226?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="tvchile" tvg-name="TV CHILE" tvg-logo="https://static.flow.com.ar/images/727/CH_LOGO/60/40/0/0/333157600739.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
+https://sparkletvonline.com/comecalzon2/canal227?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="antena3" tvg-name="ANTENA 3" tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
+https://sparkletvonline.com/comecalzon2/canal228?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="telesur" tvg-name="TELESUR" tvg-logo="https://static.flow.com.ar/images/724/CH_LOGO/60/40/0/0/2237715507388.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376
+https://sparkletvonline.com/comecalzon2/canal229?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://static.flow.com.ar/images/683/CH_LOGO/60/40/0/0/328439030716.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e21fc12c6ee185fbc90a052b05026be9:0f96fd52903707aac0b42853a043ffd0
+https://sparkletvonline.com/comecalzon2/canal230?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="tvgalicia" tvg-name="TV GALICIA" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0
+https://sparkletvonline.com/comecalzon2/canal231?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="arirang" tvg-name="ARIRANG" tvg-logo="https://static.flow.com.ar/images/941/CH_LOGO/60/40/0/0/6072830107322.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436d78a75fad9bdcc6d409640c116a62:c77471ac3b694513a9c5ff68b8d4fac5
+https://sparkletvonline.com/comecalzon2/canal232?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Alljazzera" tvg-name="Alljazzera" tvg-logo="https://www.ecured.cu/images/c/cc/AlJazeera.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=137a1a70fa118b695118a3aad9485b13:7c35ca36d4452dfa03d88725a0d16105
+https://sparkletvonline.com/comecalzon2/canal294?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Rede_Record" tvg-name="RED RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Logomarca_da_Record_%282023%29.webp/250px-Logomarca_da_Record_%282023%29.webp.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0bd8ea11b3f4c219903085ef1d44b0d:9a25709a72c2ca93cb738665736cfa5a
+https://sparkletvonline.com/comecalzon2/canal295?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="canalu" tvg-name="CANAL UCL" tvg-logo="https://static.flow.com.ar/images/672/CH_LOGO/60/40/0/0/37059784072541.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
+https://sparkletvonline.com/comecalzon2/canal233?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="bandeirantes" tvg-name="NEWS BRASIL" tvg-logo="https://static.flow.com.ar/images/1162/CH_LOGO/60/40/0/0/56427781071667.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
+https://sparkletvonline.com/comecalzon2/canal234?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="dnews" tvg-name="DNEWS" tvg-logo="https://static.flow.com.ar/images/9237/CH_LOGO/60/40/0/0/57964260077673.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
+https://sparkletvonline.com/comecalzon2/canal235?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1280px-TVE.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643
+https://sparkletvonline.com/comecalzon2/canal131?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANALDELACIUDAD" tvg-name="CANAL DE LA CIUDAD" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/44206007072332.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
+https://sparkletvonline.com/comecalzon2/canal239?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_90" tvg-name="CANAL 90" tvg-logo="https://static.flow.com.ar/images/921/CH_LOGO/60/40/0/0/3707149307769.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
+https://sparkletvonline.com/comecalzon2/canal208?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Norte" tvg-name="SOMOS NORTE" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
+https://sparkletvonline.com/comecalzon2/canal207?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_La_Plata" tvg-name="SOMOS LA PLATA" tvg-logo="https://static.flow.com.ar/images/1045/CH_LOGO/60/40/0/0/6716887007729.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
+https://sparkletvonline.com/comecalzon2/canal216?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Rosario" tvg-name="SOMOS ROSARIO" tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+https://sparkletvonline.com/comecalzon2/canal217?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somostf" tvg-name="SOMOS SANTA FE" tvg-logo="https://static.flow.com.ar/images/1263/CH_LOGO/60/40/0/0/5370906407919.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
+https://sparkletvonline.com/comecalzon2/canal218?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somossalta" tvg-name="SOMOS SALTA" tvg-logo="https://static.flow.com.ar/images/7960/CH_LOGO/60/40/0/0/80711622072411.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+https://sparkletvonline.com/comecalzon2/canal219?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somosmdq" tvg-name="SOMOS MAR DEL PLATA" tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
+https://sparkletvonline.com/comecalzon2/canal221?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somoselvalle" tvg-name="SOMOS DEL VALLE" tvg-logo="https://static.flow.com.ar/images/8001/CH_LOGO/60/40/0/0/68046414071342.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=513f2056bf40d9123918fd7939fbf065:075ee6dd9b67d88be5642eaa510e91cb
+https://sparkletvonline.com/comecalzon2/canal222?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somossanpedro" tvg-name="SOMOS SAN PEDRO" tvg-logo="https://static.flow.com.ar/images/8859/CH_LOGO/60/40/0/0/67969827076900.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ed7bfb5a7be4d99df70ed73852098d4:df5123a8a8160b62b51c7cb6001be23c
+https://sparkletvonline.com/comecalzon2/canal223?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Azul" tvg-name="SOMOS AZUL" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4343f3f5f5b4d3dffa9584d20d912ac6:9f0c94b68cf89c38d30dd56a2fbecd48
+https://sparkletvonline.com/comecalzon2/canal296?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Bahia_Blanca" tvg-name="SOMOS BAHIA BLANCA" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10:737b6374d4492e8c233ca2c2ebac9b85
+https://sparkletvonline.com/comecalzon2/canal305?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Bell_Ville" tvg-name="SOMOS BELL VILLE" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dd0d6fab23ee397e603bf1cad49cc3f:84163f0d536884a640a509a9a0c937ee
+https://sparkletvonline.com/comecalzon2/canal307?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Parana" tvg-name="SOMOS PARANA" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=726c0ccee1985d0d59738bfe8e9aee2b:0ff2c5a2381d8f0b7b92565dceb4ca58
+https://sparkletvonline.com/comecalzon2/canal315?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Tucuman" tvg-name="SOMOS TUCUMAN" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2004558039ee95097010029015316b4:29960fc94fbf7a13c9de1308d508bc25
+https://sparkletvonline.com/comecalzon2/canal317?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Corrientes" tvg-name="SOMOS CORRIENTES" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
+https://sparkletvonline.com/comecalzon2/canal319?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Resistencia" tvg-name="SOMOS RESISTENCIA" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c3579af87560a1dbc599c882516f95:cdfe03336cc80ef7c3dd9eb19f298d04
+https://sparkletvonline.com/comecalzon2/canal320?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Formosa" tvg-name="SOMOS FORMOSA" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceeb1cfa7ecbc8b22ff9f186287aa4a1:8367cc3655b9fb82d6473f27b3ef9907
+https://sparkletvonline.com/comecalzon2/canal324?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Somos_Misiones" tvg-name="SOMOS MISIONES" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=170d08ce1e5e94e366318d178700e0cf:76259c53b90ce8e0c2824ed49b767bd4
+https://sparkletvonline.com/comecalzon2/canal326?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="RN TV" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/73302220072031.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
+https://sparkletvonline.com/comecalzon2/canal220?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="canalc" tvg-name="CANAL C" tvg-logo="https://static.flow.com.ar/images/1241/CH_LOGO/60/40/0/0/7776619407886.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
+https://sparkletvonline.com/comecalzon2/canal224?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="canaluniv" tvg-name="CANAL UNLP" tvg-logo="https://static.flow.com.ar/images/1061/CH_LOGO/60/40/0/0/90975798073402.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
+https://sparkletvonline.com/comecalzon2/canal225?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="EcoTv_Tandil" tvg-name="ECO TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Eco-TV-Tandil-en-vivo-Online-.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bcb0593847aa273102a0546f8d51ce4:f04591c07966e6678462dd94f99da66a
+https://sparkletvonline.com/comecalzon2/canal304?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_11_Parana" tvg-name="CANAL 11 PARANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_ELONCE_Paran%C3%A1.png/250px-Logo_ELONCE_Paran%C3%A1.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82d766840c7ea82b4f309ae1d4f9c0d7:41071d71fc94b54c87e6140d7b2e9226
+https://sparkletvonline.com/comecalzon2/canal314?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_3_Formosa" tvg-name="CANAL 3 FORMOSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Canal_3_Formosa.png/250px-Canal_3_Formosa.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad37e328e1d36e0a5423a1a72d4085b:93fb085bbb8d6583d159c766fca1cfff
+https://sparkletvonline.com/comecalzon2/canal325?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="LAPACHOC11" tvg-name="LAPACHO CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lapacho_Canal_11_%28Logo_2018%29.png/250px-Lapacho_Canal_11_%28Logo_2018%29.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal343
+
+#EXTINF:-1 tvg-id="CANAL_12_MISIONES" tvg-name="CANAL 12 MISIONES" tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0
+https://sparkletvonline.com/comecalzon2/canal132?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="EL_8_TUCUMAN" tvg-name="EL 8 TUCUMAN" tvg-logo="https://www.elocho.tv/resources/logos/twitter-card-1200x600.jpg"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+https://sparkletvonline.com/comecalzon2/canal133?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="America_Tucuman" tvg-name="AMERICA TUCUMAN" tvg-logo="https://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
+https://sparkletvonline.com/comecalzon2/canal318?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFE_SALTA" tvg-name="TELEFE SALTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
+https://sparkletvonline.com/comecalzon2/canal135?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFE_CORDOBA" tvg-name="TELEFE CORDOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0
+https://sparkletvonline.com/comecalzon2/canal134?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_12_CORDOBA" tvg-name="CANAL 12 CORDOBA" tvg-logo="https://i.ibb.co/60sFBfY/og-image.jpg"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
+https://sparkletvonline.com/comecalzon2/canal136?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_10_CORDOBA" tvg-name="CANAL 10 CORDOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/240px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://167.114.129.223/web/keys/canal10cba.json
+https://sparkletvonline.com/comecalzon2/canal137?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CBA24" tvg-name="CBA24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Isologo_cba24n.svg/960px-Isologo_cba24n.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
+https://sparkletvonline.com/comecalzon2/canal308?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="multivision" tvg-name="MULTIVISION SALTA" tvg-logo="https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal268
+
+#EXTINF:-1 tvg-id="TELEFE_SANTA_FE" tvg-name="TELEFE SANTA FE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/t7pxt5clheq2kgonc40jb/KEY.telefe.santa.fe.json?rlkey=qfm4iap0vn5m0h1zjh2mqfk1e&dl=0
+https://sparkletvonline.com/comecalzon2/canal138?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="5RTV" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RTS_Nuevo_Logo.png/250px-RTS_Nuevo_Logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7caca846fda0ac308553f7eb7284a596:256934a336abbc242378af4a2dfcac4e
+https://sparkletvonline.com/comecalzon2/canal312?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Cable_Y_Diario" tvg-name="CYD LITORAL" tvg-logo="https://www.ellitoral.com/collections/utiles-diseno/logo-cyd___64d24688481a00001a76b51a.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6df95979c5b379c56f6e87a19e37be00:034564e9816644d6618644246347bc64
+https://sparkletvonline.com/comecalzon2/canal313?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_10_TUCUMAN" tvg-name="CANAL 10 TUCUMAN" tvg-logo="https://www.laizquierdadiario.com/IMG/arton53465.jpg"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+https://sparkletvonline.com/comecalzon2/canal139?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_9_LITORAL" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/jhfg3zst0pcudtz65nuj4/KEY.canqal.9.litoral.json?rlkey=tsl6f8mtd2ybk93idsa7soocu&dl=0
+https://sparkletvonline.com/comecalzon2/canal140?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFE_ROSARIO" tvg-name="TELEFE ROSARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Telefe_Rosario.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0
+https://sparkletvonline.com/comecalzon2/canal141?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL_3_ROSARIO" tvg-name="CANAL 3 ROSARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/202px-Eltres_RGB-grad_%28positivo%29.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/b4p2pkcgrtb0clsx30hvc/KEYcanal.3.rosario.json?rlkey=2r74dkb51x4g4vh9xts5nhm5w&dl=0
+https://sparkletvonline.com/comecalzon2/canal142?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFE_NEUQUEN" tvg-name="TELEFE NEUQUEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0
+https://sparkletvonline.com/comecalzon2/canal143?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFE_BAHIA_BLANCA" tvg-name="TELEFE BAHIA BLANCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Telefe_Bah%C3%ADa_Blanca.png"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/rbgs7hsxairw06c2h75j0/KEY.TELEFE-BAHIA-BLANCA.json?rlkey=i713hwikxol6h3baync9e9dtd&dl=0
+https://sparkletvonline.com/comecalzon2/canal144?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal7_Bahia_Blanca" tvg-name="CANAL 7 BAHIA BLANCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Canal_Siete_Bahia_Blanca.png/250px-Canal_Siete_Bahia_Blanca.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a15243320c0a79defa8814252e3e8c07:0659db05632c0061c126db7a12582499
+https://sparkletvonline.com/comecalzon2/canal145?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="BI24TV" tvg-name="BI 24TV" tvg-logo="https://bi24.appradio.ar/icons/icon@512.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal269
+
+#EXTINF:-1 tvg-id="BRAGADOTV" tvg-name="BRAGADO TV" tvg-logo="https://i.ytimg.com/vi/BYIZppFLyjM/hqdefault.jpg" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal270
+
+#EXTINF:-1 tvg-id="TV5SATELITAL" tvg-name="TV 5 SATELITAL" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal271
+
+#EXTINF:-1 tvg-id="CIA" tvg-name="CIA" tvg-logo="https://i0.wp.com/cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox2.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal272
+
+#EXTINF:-1 tvg-id="TVPUBLICAPAMPA" tvg-name="TV PUBLICA PAMPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Televisi%C3%B3n_P%C3%BAblica_Pampeana_%28Logo_2022%29.png/960px-Televisi%C3%B3n_P%C3%BAblica_Pampeana_%28Logo_2022%29.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal273
+
+#EXTINF:-1 tvg-id="CANAL7SALTA" tvg-name="CANAL 7 SALTA" tvg-logo="https://play-lh.googleusercontent.com/4fgp_qrpmJ3XL59ddvZNRui_EpPCXoh-6Gt6fgdYAk9HdcVzNN1i3BFZiGD4il1EVF0" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal274
+
+#EXTINF:-1 tvg-id="CANAL7JUJUY" tvg-name="CANAL 7 JUJUY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Canal_Siete_Jujuy.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal275
+
+#EXTINF:-1 tvg-id="Telemedia" tvg-name="CORRIENTES TV" tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b92debd46867562934091f551e6e5:79ec0fe4b5fa6c66a29c93542a070f19
+https://sparkletvonline.com/comecalzon2/canal323?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CH_13_Corrientes" tvg-name="CANAL 13 CORRIENTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_de_Canal_13Max_Corrientes.png/250px-Logo_de_Canal_13Max_Corrientes.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee837d0ec414d95a51b0c7a57d49d307:883fd72dc9b72db33d7b4f8dc0eb0016
+https://sparkletvonline.com/comecalzon2/canal322?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TV 5 CHACO" tvg-name="TV 5 CHACO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAknEBOOr_Udu2FAikocxqo6IgEMJ6NSnT8w&s" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal277
+
+#EXTINF:-1 tvg-id="CH_9_Resistencia" tvg-name="CANAL 9 RESISTENCIA" tvg-logo="https://static.treslineas.com.ar/foto/nota-926904-medios-comunidad-provincia-chaco-corrientes-130807063421.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
+https://sparkletvonline.com/comecalzon2/canal321?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL2MDP" tvg-name="CANAL 2 MDP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN0ygOjgr0VqQ1c_87uBAsdGKW9wTOEWYew&s" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal279
+
+#EXTINF:-1 tvg-id="Telefe_MDQ_HD" tvg-name="TELEFE MDQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Canal_8_Mar_del_Plata_%28Logo_2022_-_2%29.png/500px-Canal_8_Mar_del_Plata_%28Logo_2022_-_2%29.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd82180cb606cee7547f58298c4f8fcb:844489c5f007fbe4afa36c8d64528d73
+https://sparkletvonline.com/comecalzon2/canal299?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_10_MDQ" tvg-name="CANAL 10 MDQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Canal_10_Mar_del_Plata_nuevo_logo.png/250px-Canal_10_Mar_del_Plata_nuevo_logo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f353c7f02f643da9049646fb835abcf:ae8630fc13b9e4554c56bd0be31be74f
+https://sparkletvonline.com/comecalzon2/canal300?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_2_MDQ_LCC" tvg-name="CANAL 2 MDQ" tvg-logo="https://canal2mdp.com.ar/assets/13427954_1104019889671271_5647949923378659701_n-1.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30691d3980864458cc24a230708cf003:9f11ac9715b016312f6a222d0886c2af
+https://sparkletvonline.com/comecalzon2/canal301?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_79_MDQ" tvg-name="CANAL 79 MDQ" tvg-logo="https://i0.wp.com/yelmos.com.ar/design/wp-content/uploads/2024/11/canal_79_vivo.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b5308f8e6d411eab8a8f1576f95e27:0afb56f72dbf8a5555e30a6f086049ac
+https://sparkletvonline.com/comecalzon2/canal302?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Universidad_MDQ" tvg-name="UNIVERSIDAD MDQ" tvg-logo="https://canal.mdp.edu.ar/resources/views/frontend/img/canal_iso_new.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f6ab7206de81b4f19edcbc735a7f4ca:5d05b9738b9a999a4b7c5b495866c21c
+https://sparkletvonline.com/comecalzon2/canal303?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL6DIGITAL" tvg-name="CANAL 6 DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png" group-title="CANALES"
+#EXTVLCOPT:http-user-agent=Magma Player/10
+https://sparkletvonline.com/comecalzon2/tvadd/canal283
+
+#EXTINF:-1 tvg-id="Local_Carlos_Paz" tvg-name="CANAL 2 CARLOS PAZ" tvg-logo="https://biblioteca.acropolis.org/wp-content/uploads/2015/08/2-301x301.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
+https://sparkletvonline.com/comecalzon2/canal310?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_13_Rio_4to" tvg-name="CANAL 13 RIO CUARTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/250px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f4439b8c624ac6a8abba87c3621d580:c8798da6ee3e0934089ab2ab9fe5d5b7
+https://sparkletvonline.com/comecalzon2/canal311?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal7_SDE" tvg-name="CANAL 7 SDE" tvg-logo="https://canal7.tv/wp-content/uploads/2023/06/canal7-logos-02.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eec52ca8f4d229ae6aae86b6835256ed:506afbd8be37e388f5d3ceb7992069d4
+https://sparkletvonline.com/comecalzon2/canal316?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal10_Rio_Negro" tvg-name="CANAL 10 RIO NEGRO" tvg-logo="https://canal10.ar/wp-content/uploads/2024/04/LOGO-CANAL10-TV-RGB-e1762193585179.webp" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=491adb9269c5c8ab41f83936d0b4a68f:7ab85b000d8b5a06f542aff956bcb007
+https://sparkletvonline.com/comecalzon2/canal327?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Canal_10_Junin" tvg-name="CANAL 10 JUNIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png/250px-Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2002528cbe8ebac766a4b87b2c931cb7:e545efab88c32190b395fe2fa96cf0ce
+https://sparkletvonline.com/comecalzon2/canal297?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TeleJunin" tvg-name="TELE JUNIN" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04a6e06cd400b52502f9dcab713077ad:629fc0a3c99442eb5ff46b6f3133fd44
+https://sparkletvonline.com/comecalzon2/canal298?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="POPUTV" tvg-name="POPU TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/popu-tv-py.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+https://sparkletvonline.com/comecalzon2/canal278?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="heynow" tvg-name="HEI NOW" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/47226827072588.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
+https://sparkletvonline.com/comecalzon2/canal279?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="abctv" tvg-name="ABC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/120px-ABC-2021-LOGO.svg.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
+https://sparkletvonline.com/comecalzon2/canal280?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SNT" tvg-name="SNT" tvg-logo="https://i.ibb.co/jvGLkCK/unnamed.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+https://sparkletvonline.com/comecalzon2/canal146?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEFUTURO" tvg-name="TELEFUTURO" tvg-logo="https://i.ibb.co/NjymhsW/FFFF.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+https://sparkletvonline.com/comecalzon2/canal147?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+https://sparkletvonline.com/comecalzon2/canal148?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UNICANAL" tvg-name="UNICANAL" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://sparkletvonline.com/comecalzon2/canal149?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="MEGA TV" tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
+https://sparkletvonline.com/comecalzon2/canal150?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TV CAMARA" tvg-name="TV CAMARA" tvg-logo="https://i.ibb.co/TkT1Dbm/tvcamara.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9357704ade444dc3b23be89865af2f58:3d03e0a79d8f7b7aa2897c3d24bd4b6a
+https://sparkletvonline.com/comecalzon2/canal151?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PARAGUAY TV" tvg-name="PARAGUAY TV" tvg-logo="https://i.ibb.co/3zrDZgx/unnamed-1.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+https://sparkletvonline.com/comecalzon2/canal152?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL PRO" tvg-name="CANAL PRO" tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+https://sparkletvonline.com/comecalzon2/canal153?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="5 DIAS" tvg-name="5 DIAS" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
+https://sparkletvonline.com/comecalzon2/canal154?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="SURTV" tvg-name="SURTV" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+https://sparkletvonline.com/comecalzon2/canal155?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="NPY" tvg-name="NPY" tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+https://sparkletvonline.com/comecalzon2/canal156?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="PARAVISION" tvg-name="PARAVISION" tvg-logo="https://i.ibb.co/FXnvNPk/paravision.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+https://sparkletvonline.com/comecalzon2/canal157?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="C9N" tvg-name="C9N" tvg-logo="https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
+https://sparkletvonline.com/comecalzon2/canal158?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="GEN TV" tvg-name="GEN TV" tvg-logo="https://i.ibb.co/jyh9z2W/gentv.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+https://sparkletvonline.com/comecalzon2/canal159?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="LA TELE" tvg-name="LA TELE" tvg-logo="https://i.ibb.co/Zg861M4/latele.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+https://sparkletvonline.com/comecalzon2/canal160?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="UnionTV" tvg-name="UNION TV" tvg-logo="https://uniontv.com.py/wp-content/uploads/2023/03/logo_retina-01.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc47bd761413375f1b6e7333a51de41a:ccf01c0661ae65f273b79eeda0ec0f3e
+https://sparkletvonline.com/comecalzon2/canal328?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Venus_Media" tvg-name="VENUS MEDIA" tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=835af7d77bd13621ba044ab931e5e89f:753ed98985b348ab7bf3c0a2b24930eb
+https://sparkletvonline.com/comecalzon2/canal329?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="America_PY" tvg-name="AMERICA PY" tvg-logo="https://americatv.com.py/wp-content/uploads/2023/07/cropped-logoinicio-1.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e4a187474de8e29a8507d496c8a594f:daab5ccf306d67749740f7ce02c07850
+https://sparkletvonline.com/comecalzon2/canal330?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="A24_PY" tvg-name="A24 PY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82e87fac1c33915ad5d344ffac1bbbb4:db60bfaa0178071a5572e6e6ffb46ed3
+https://sparkletvonline.com/comecalzon2/canal331?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Nanduti_Py" tvg-name="NANDUTI" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46c3d8c42bb9799e5de5792e3fb45de4:aed06fd292d278aa464da44752b9c313
+https://sparkletvonline.com/comecalzon2/canal332?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="Educanal" tvg-name="EDUCANAL" tvg-logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a51992671bd007fbf5d5c257ee62ea0:69c4603a7136ec9eb515f8e0ca9c275c
+https://sparkletvonline.com/comecalzon2/canal333?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="RCC" tvg-name="RCC" tvg-logo="https://cdn.rcc.com.py/2024/07/logo-rcc-holding-100px.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8479ae2a7cc939e8382c8851927425d:d1f89fc694800645ae926d9c5f13a1f6
+https://sparkletvonline.com/comecalzon2/canal334?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL 10" tvg-name="CANAL 10" tvg-logo="https://i.ibb.co/G7f4Rbh/canal10uy-2.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
+https://sparkletvonline.com/comecalzon2/canal161?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL 4" tvg-name="CANAL 4" tvg-logo="https://i.ibb.co/X2X854s/canal4uy.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+https://sparkletvonline.com/comecalzon2/canal162?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TELEDOCE" tvg-name="TELEDOCE" tvg-logo="https://i.ibb.co/HKkJ1zX/teledoce.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
+https://sparkletvonline.com/comecalzon2/canal163?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
+https://sparkletvonline.com/comecalzon2/canal164?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD" tvg-logo="https://i.ibb.co/dkq8Jgm/tvciudad.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
+https://sparkletvonline.com/comecalzon2/canal165?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://i.ibb.co/GCD8V2n/adult-swim.png" group-title="CANALES"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTHTTP:{"User-Agent":"SparkleTV/1.9.1 (Chromecast, Android 14) (Chromecast, Android 14)"}
+#EXTVLCOPT:http-user-agent=SparkleTV/1.9.1 (Chromecast, Android 14)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
+https://sparkletvonline.com/comecalzon2/canal205?access=aDE54xldo0dff|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
