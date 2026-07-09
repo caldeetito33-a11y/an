@@ -1,4 +1,4 @@
-#EXTM3U refresh="0.01" x-tvg-url="https://www.open-epg.com/generate/rU5mn2F5pm.xml,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTM3U refresh="0.01" x-tvg-url="https://www.open-epg.com/generate/rU5mn2F5pm.xml,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
 # 1. EVENTO: COPA MUNDIAL DE LA FIFA 2026™
@@ -3122,6 +3122,273 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="Música", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="ASTRA PERÚ FULL",TV Perú 
+http://8.243.126.131:8000/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="ASTRA PERÚ FULL",TV PERU Internacional 
+http://8.243.126.131:8000/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="ASTRA PERÚ FULL",Ipe 
+http://8.243.126.131:8000/play/a04p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="ASTRA PERÚ FULL",Cultura 24
+https://cloud.live.opencaster.com/playlist_480/index.m3u8
+
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="ASTRA PERÚ FULL",America TV
+http://190.108.93.71:8000/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="ASTRA PERÚ FULL",America TV HD
+http://8.243.126.131:8000/play/a01q/index.m3u8?hls
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://www.lyngsat.com/logo/tv/aa/america-pe.png" group-title="ASTRA PERÚ FULL",America TV SD
+https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
+
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="ASTRA PERÚ FULL",ATV
+http://8.243.126.131:8000/play/a01z/index.m3u8?hls
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="ASTRA PERÚ FULL",ATV HD
+http://191.97.61.32:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/29.2.png" group-title="ASTRA PERÚ FULL",ATV SD
+http://190.108.83.69:8000/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="ASTRA PERÚ FULL",ATV SUR
+http://148.222.230.197:8000/play/a0lo/index.m3u8?hls
+#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="ASTRA PERÚ FULL",ATV SUR HD
+http://190.108.80.138:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/canal-atv-sur.png" group-title="ASTRA PERÚ FULL",ATV SUR SD
+http://190.117.20.37:8000/play/a08k/index.m3u8
+
+
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="ASTRA PERÚ FULL",Panamericana
+http://190.238.43.117:9000/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="ASTRA PERÚ FULL",Panamericana HD
+http://191.97.61.32:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://panamericana.pe/imagenes/logo.png" group-title="ASTRA PERÚ FULL",Panamericana SD
+http://190.117.20.37:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="ASTRA PERÚ FULL",Latina
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb271571699967324bb93ae6a&ndvc=0
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="ASTRA PERÚ FULL",Latina HD
+http://8.243.126.131:8000/play/a001/index.m3u8?hls
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="ASTRA PERÚ FULL",Latina SD
+http://45.236.151.86:3232/play/a19w/index.m3u8
+
+#EXTINF:-1 tvg-id="LATINA CLASICOS.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/26.1.png" group-title="ASTRA PERÚ FULL",Latina Clasicos
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8   
+
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="ASTRA PERÚ FULL",Willax
+http://191.97.61.32:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="ASTRA PERÚ FULL",Willax HD
+http://8.243.126.131:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/30.2.png" group-title="ASTRA PERÚ FULL",Willax SD
+http://45.236.151.86:3232/play/a19u/index.m3u8
+
+#EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="ASTRA PERÚ FULL",PBO
+http://191.97.61.32:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="656" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="ASTRA PERÚ FULL",PBO HD
+http://190.108.83.69:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/32.1-latelehd.png" group-title="ASTRA PERÚ FULL",La Tele
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/32.1-latelehd.png" group-title="ASTRA PERÚ FULL",La Tele HD
+http://45.186.254.75:8000/play/a0c9/index.m3u8
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/32.1-latelehd.png" group-title="ASTRA PERÚ FULL",La Tele SD
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
+
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="ASTRA PERÚ FULL",GlobalTV 
+http://45.236.151.86:3232/play/a14q/index.m3u8
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="ASTRA PERÚ FULL",GlobalTV HD
+http://148.222.230.197:8000/play/a0gc/index.m3u8?hls
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/31.1.png" group-title="ASTRA PERÚ FULL",GlobalTV SD
+http://45.186.254.75:8000/play/a09q/index.m3u8
+
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="ASTRA PERÚ FULL",Nativa TV
+http://38.210.4.182:8000/play/a0ou/index.m3u8?hls
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="ASTRA PERÚ FULL",Nativa TV HD
+http://148.222.230.197:8000/play/a0ls/index.m3u8?hls
+#EXTINF:-1 tvg-id="547" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="ASTRA PERÚ FULL",Nativa TV SD
+http://201.240.104.137:8000/play/a09m/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="NetChannel.pe" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="ASTRA PERÚ FULL" tvg-name="NET Channel Perú",NET Channel Perú
+https://media.streambrothers.com:19360/8158/8158.m3u8
+
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://pbs.twimg.com/profile_images/1552089735782449159/iK8eX8ug_400x400.jpg" group-title="ASTRA PERÚ FULL",Vision Sur
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e0/25/e0253d3e-bf0d-4d6a-9a8b-9c5495bfcdbe.png" group-title="ASTRA PERÚ FULL" tvg-name="Exitosa Noticias Peru",Exitosa
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="ASTRA PERÚ FULL",Señal Peru HD
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="ASTRA PERÚ FULL",Señal Peru SD
+https://livestream.perucast.com/low/stream_low/index.m3u8
+
+#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/VivaTV.png" group-title="ASTRA PERÚ FULL",Vivatv 
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="ASTRA PERÚ FULL",BHTV.pe
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="OVACION.pe" tvg-logo="https://pbs.twimg.com/media/EbJfYDzWsAA1f0U.jpg" group-title="ASTRA PERÚ FULL",Ovacion
+https://5949aa132c8fb.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w752333413.m3u8
+
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="ASTRA PERÚ FULL",Liga 1
+http://45.236.151.86:3232/play/a1hd/index.m3u8
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="ASTRA PERÚ FULL",Liga 1 HD
+http://148.222.230.197:8000/play/a0oh/index.m3u8?hls
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-2plancito.png" group-title="ASTRA PERÚ FULL",Liga 1 SD
+http://200.60.124.25:8000/play/a0qt/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="ASTRA PERÚ FULL",Liga1 MAX
+http://190.117.20.37:8000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="ASTRA PERÚ FULL",Liga1 MAX HD
+http://179.43.96.253:8000/play/a2af/index.m3u8
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/1Recurso-1plancito-1.png" group-title="ASTRA PERÚ FULL",Liga1 MAX SD
+http://200.60.124.25:8000/play/a0gj/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/8548bb65276145.Y3JvcCw5MTcsNzE4LDE4MSww.png" group-title="ASTRA PERÚ FULL",GolPeru
+http://190.108.93.180:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar-deportes-pe.png" group-title="ASTRA PERÚ FULL",Movistar Deportes 
+http://190.108.93.180:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oz7wor1604169998.png" group-title="ASTRA PERÚ FULL",Peru Magico
+http://201.240.104.137:8000/play/a07a/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="ASTRA PERÚ FULL",DSports
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Plus_TV_Life.svg/250px-Plus_TV_Life.svg.png" group-title="ASTRA PERÚ FULL",Plus Tv Life
+http://190.93.229.30:8000/play/a0ij/index.m3u8u?hls
+
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/cnn-en-espanol-lam.png?raw=true" group-title="ASTRA PERÚ FULL",CNN en Español
+http://191.97.61.32:8000/play/a0dk/index.m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="ASTRA PERÚ FULL",Canal N
+http://190.238.43.117:9000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="ASTRA PERÚ FULL",Canal N SD
+http://190.108.83.69:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="ASTRA PERÚ FULL" tvg-name="RPP",RPP
+http://181.224.200.5:2277/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="ASTRA PERÚ FULL" tvg-name="RPP",RPP HD
+http://191.97.61.32:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="ASTRA PERÚ FULL" tvg-name="RPP",RPP SD
+http://190.238.43.117:9000/play/a0eg/index.m3u8
+
+#EXTINF:-1 tvg-id="LATINA NOTICIAS.pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="ASTRA PERÚ FULL",Latina Noticias
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b2143643398467324bb85fcfa&sid=ba5t1l1xb278057488967324c9c1d083&ndvc=0
+
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-tvpe-noticias1.png" group-title="ASTRA PERÚ FULL",TV PERU Noticias 
+http://8.243.126.131:8000/play/a04j/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="ASTRA PERÚ FULL",ATV+
+http://190.238.43.117:9000/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="ASTRA PERÚ FULL",CNN Chile
+http://190.60.48.151:8010/play/a0ay/index.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" group-title="ASTRA PERÚ FULL",A24
+http://190.7.19.197:232/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" group-title="ASTRA PERÚ FULL",LN+
+http://190.7.19.197:232/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://i.imgur.com/XEnY7aW.png" group-title="ASTRA PERÚ FULL",TN
+http://190.7.19.197:232/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" group-title="ASTRA PERÚ FULL",C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" group-title="ASTRA PERÚ FULL",Crónica TV
+http://190.7.19.197:232/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://i.imgur.com/m504ZL8.png" group-title="ASTRA PERÚ FULL",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://www.ntn24.com/__assets/images/logo.png" group-title="ASTRA PERÚ FULL",NTN24
+http://181.78.20.119:58002/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://cdn-1.webcatalog.io/catalog/adn40/adn40-icon-filled-256.png" group-title="ASTRA PERÚ FULL",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="ASTRA PERÚ FULL",N+ Foro
+http://38.65.175.87:8000/play/a0ny/index.m3u8u?hls
+
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/mm/milenio-tv-mx.png" group-title="ASTRA PERÚ FULL",Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="ASTRA PERÚ FULL",24h 
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="ASTRA PERÚ FULL",EuroNews
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+#EXTINF:-1 tvg-id="659" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/euro-news-int.png" group-title="ASTRA PERÚ FULL",EuroNews HD
+http://209.87.175.160:5001/play/a0mg/index.m3u8
+
+#EXTINF:-1 tvg-id="560" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/russia-today-int.png" group-title="ASTRA PERÚ FULL",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="ASTRA PERÚ FULL",Deutsche Welle
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="Deutsche W" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/dw-int.png" group-title="ASTRA PERÚ FULL",Deutsche Welle HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="ASTRA PERÚ FULL",France 24 ES
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/international/france-24-int.png" group-title="ASTRA PERÚ FULL",France 24 HD
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="http://static-1.ivoox.com/canales/2/4/7/6/9531471416742_XXL.jpg" group-title="ASTRA PERÚ FULL",Hispan TV
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="ASTRA PERÚ FULL" tvg-name="Negocios TV",Negocios TV
+http://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="ASTRA PERÚ FULL",TVN
+http://190.238.43.117:9000/play/a0g1/index.m3u8
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mega-cl.png" group-title="ASTRA PERÚ FULL",Mega
+http://190.238.43.117:9000/play/a0g7/index.m3u8
+
+#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="ASTRA PERÚ FULL",CHV
+http://190.238.43.117:9000/play/a0g2/index.m3u8
+
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="ASTRA PERÚ FULL",Canal 13
+http://190.93.229.30:8000/play/a0b3/index.m3u8u?hls
+
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="ASTRA PERÚ FULL",TV Chile
+http://8.243.126.131:8000/play/a0fd/index.m3u8?hls
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="ASTRA PERÚ FULL",TV Chile SD
+http://168.228.44.241:9998/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="ASTRA PERÚ FULL",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="ASTRA PERÚ FULL",TV+ HD
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream2/chunks.m3u8?dpssid=b21095818626854b2963968a&sid=ba5t1l1xb221295459196875a109e0aa1&ndvc=0
+
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la-red-cl.png" group-title="ASTRA PERÚ FULL",La Red HD
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="ucv-tv.cl" tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="ASTRA PERÚ FULL",UCV HD
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="549" tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="ASTRA PERÚ FULL",T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="ASTRA PERÚ FULL",Zona Latina
+http://190.93.229.30:8000/play/a0j9/index.m3u8u?hls
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://zonalatinatv.com/wp-content/uploads/2023/04/ZL-Lateral-NO-OFICIAL.png" group-title="ASTRA PERÚ FULL",Zona Latina HD
+http://190.238.43.117:9000/play/a0dj/index.m3u8
+
+#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="ASTRA PERÚ FULL",ViaX
+http://179.1.146.22:8000/play/a0qe/index.m3u8
+#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="ASTRA PERÚ FULL",ViaX HD
+http://190.93.229.30:8000/play/a0j2/index.m3u8u?hls
+
+
+
 
 
 ASTRA ARGENTINA 1 
