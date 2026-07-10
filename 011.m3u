@@ -466,6 +466,26 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Radio M2O" tvg-logo="https://i.ibb.co/yYTGCT7/radio-m2o.png" group-title="Musica",Radio M2O
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+
+#EXTINF:-1 tvg-id="Retro Plus" tvg-logo="https://i.postimg.cc/X72YMqHQ/retro-plus.png" group-title="Musica",Retro Plus
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1047798552.m3u8
+
+#EXTINF:-1 tvg-id="El Canal de la Musica" tvg-logo="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png" group-title="Musica",El Canal de la Musica
+https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="RockTV" tvg-logo="https://i.postimg.cc/pTh69HVy/rocktv.png" group-title="Musica",RockTV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://i.postimg.cc/Xq918kCb/toptv.png" group-title="Musica",TopTV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+#EXTINF:-1 tvg-id="Vclassic TV" tvg-logo="https://i.ibb.co/Jqq4Z79/vclassictv.png" group-title="Musica",Vclassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spirit TV" tvg-logo="https://i.postimg.cc/Qt639Z1W/spirit-tv.png" group-title="Musica",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 
