@@ -1,6 +1,368 @@
 #EXTM3U refresh="0.01" x-tvg-url="https://www.open-epg.com/generate/rU5mn2F5pm.xml,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="ASTRA ARGENTINA DSPORTS FULL",26TV
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0g6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="ASTRA ARGENTINA DSPORTS FULL",26TV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="ASTRA ARGENTINA DSPORTS FULL",A24
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0g3/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="ASTRA ARGENTINA DSPORTS FULL",A24
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g3/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="ASTRA ARGENTINA DSPORTS FULL",America TV HD
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0cc/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="ASTRA ARGENTINA DSPORTS FULL",America TV HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cc/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="ASTRA ARGENTINA DSPORTS FULL",C5N
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0g4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="ASTRA ARGENTINA DSPORTS FULL",C5N
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" group-title="ASTRA ARGENTINA DSPORTS FULL",Canal de la Ciudad
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cw/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" group-title="ASTRA ARGENTINA DSPORTS FULL",CNN en Espanol
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0cb/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" group-title="ASTRA ARGENTINA DSPORTS FULL",CNN en Espanol
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cb/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cronica" group-title="ASTRA ARGENTINA DSPORTS FULL",Cronica
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0g5/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cronica" group-title="ASTRA ARGENTINA DSPORTS FULL",Cronica
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g5/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" group-title="ASTRA ARGENTINA DSPORTS FULL",El Nueve HD
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0ce/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" group-title="ASTRA ARGENTINA DSPORTS FULL",El Nueve HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ce/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" group-title="ASTRA ARGENTINA DSPORTS FULL",El Trece HD
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0dt/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" group-title="ASTRA ARGENTINA DSPORTS FULL",El Trece HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dt/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="La Nacion TV" group-title="ASTRA ARGENTINA DSPORTS FULL",La Nacion TV
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0ea/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="La Nacion TV" group-title="ASTRA ARGENTINA DSPORTS FULL",La Nacion TV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ea/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Metro" group-title="ASTRA ARGENTINA DSPORTS FULL",Metro
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0ex/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Metro" group-title="ASTRA ARGENTINA DSPORTS FULL",Metro
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ex/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="RT en Espanol" group-title="ASTRA ARGENTINA DSPORTS FULL",RT en Espanol
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cx/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Telefe HD
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0dv/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Telefe HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dv/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TN HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TN HD
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0cf/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TN HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TN HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cf/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0dw/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dw/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT Novelas HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0dz/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT Novelas HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dz/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT Series HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0dx/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT Series HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dx/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT Sports HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g0/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",TNT Sports HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0g0/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica" group-title="ASTRA ARGENTINA DSPORTS FULL",TV Publica
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gm/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TV Publica HD
+http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0cd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TV Publica HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AM Sports" group-title="ASTRA ARGENTINA DSPORTS FULL",AM Sports
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AM Sports (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",AM Sports (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0g7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="DeporTV" group-title="ASTRA ARGENTINA DSPORTS FULL",DeporTV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cz/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="DeporTV (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",DeporTV (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0cz/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",DSports 1 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0h6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",DSports 1 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0h6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",DSports 2 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0h4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",DSports 2 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0h4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 1
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 1 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ch/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 1 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0ch/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 2
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gp/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 2 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cg/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 2 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0cg/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 3
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gr/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 3 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ci/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 3 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0ci/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 4 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dp/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN 4 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0dp/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN Premium HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dr/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",ESPN Premium HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0dr/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 1 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",Eventos 1 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dl/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 2 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",Eventos 2 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dm/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 1
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gw/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 1 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 1 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0dq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 2
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gs/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 2 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cj/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 2 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0cj/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 3 HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fa/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",Fox Sports 3 HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0fa/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",Golf Channel (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0h7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" group-title="ASTRA ARGENTINA DSPORTS FULL",TyC Sports HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ft/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD (ar)" group-title="ASTRA ARGENTINA DSPORTS FULL",TyC Sports HD (ar)
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0ft/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="ASTRA ARGENTINA DSPORTS FULL",AMC
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0g8/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="ASTRA ARGENTINA DSPORTS FULL",AMC
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g8/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" group-title="ASTRA ARGENTINA DSPORTS FULL",AMC Series HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0ff/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" group-title="ASTRA ARGENTINA DSPORTS FULL",AMC Series HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ff/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="ASTRA ARGENTINA DSPORTS FULL",AXN HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0cm/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="ASTRA ARGENTINA DSPORTS FULL",AXN HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cm/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cine.AR" group-title="ASTRA ARGENTINA DSPORTS FULL",Cine.AR
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0g9/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cine.AR" group-title="ASTRA ARGENTINA DSPORTS FULL",Cine.AR
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g9/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Cinecanal HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0du/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Cinecanal HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0du/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="ASTRA ARGENTINA DSPORTS FULL",Cinemax
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0by/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="ASTRA ARGENTINA DSPORTS FULL",Cinemax
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0by/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Comedy Central HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fe/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Comedy Central HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fe/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" group-title="ASTRA ARGENTINA DSPORTS FULL",Europa Europa
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0dd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" group-title="ASTRA ARGENTINA DSPORTS FULL",Europa Europa
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="ASTRA ARGENTINA DSPORTS FULL",FX HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fc/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="ASTRA ARGENTINA DSPORTS FULL",FX HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fc/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO 1
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0d6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO 1
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0d6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO 2
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0d8/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO 2
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0d8/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Family
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0d9/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Family
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0d9/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Mundi
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0er/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Mundi
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0er/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Plus
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0d7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Plus
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0d7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO POP
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0eq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO POP
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0eq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Signature
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0et/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Signature
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0et/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Xtreme
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0es/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" group-title="ASTRA ARGENTINA DSPORTS FULL",HBO Xtreme
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0es/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Sony HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0ck/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Sony HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ck/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Sony Movies HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0cr/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Sony Movies HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cr/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Space HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Space HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Star Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0ds/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Star Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ds/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" group-title="ASTRA ARGENTINA DSPORTS FULL",Studio Universal
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fy/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" group-title="ASTRA ARGENTINA DSPORTS FULL",Studio Universal
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fy/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="ASTRA ARGENTINA DSPORTS FULL",TCM
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fx/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="ASTRA ARGENTINA DSPORTS FULL",TCM
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fx/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" group-title="ASTRA ARGENTINA DSPORTS FULL",TLNovelas
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0di/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" group-title="ASTRA ARGENTINA DSPORTS FULL",TLNovelas
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0di/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Universal HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0cq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Universal HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cq/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="ASTRA ARGENTINA DSPORTS FULL",USA Network
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fz/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="ASTRA ARGENTINA DSPORTS FULL",USA Network
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fz/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Volver" group-title="ASTRA ARGENTINA DSPORTS FULL",Volver
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0fs/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Volver" group-title="ASTRA ARGENTINA DSPORTS FULL",Volver
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fs/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Warner Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0cl/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Warner Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cl/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" group-title="ASTRA ARGENTINA DSPORTS FULL",A&E HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0cp/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" group-title="ASTRA ARGENTINA DSPORTS FULL",A&E HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cp/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Adult swim HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Adult swim HD
+http://oscam281w.ooguy.com:5000/server/1234/CINE_Y_SERIES/a0dy/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Adult swim HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Adult swim HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dy/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Allegro TV" group-title="ASTRA ARGENTINA DSPORTS FULL",Allegro TV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ca/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="ASTRA ARGENTINA DSPORTS FULL",Baby TV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gb/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 (uy)" group-title="ASTRA ARGENTINA DSPORTS FULL",Canal 4 (uy)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fv/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Canal A" group-title="ASTRA ARGENTINA DSPORTS FULL",Canal A
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ga/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Cartoon Network HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dn/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" group-title="ASTRA ARGENTINA DSPORTS FULL",Ciudad Magazine
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ey/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0e1/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery H&H HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0e0/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery Kids
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0db/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery Science
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0f1/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery Theater HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fg/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery Turbo
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ee/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Discovery World HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fi/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Disney Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0f8/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="ASTRA ARGENTINA DSPORTS FULL",Disney Junior
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0c4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="E!" group-title="ASTRA ARGENTINA DSPORTS FULL",E!
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0c7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" group-title="ASTRA ARGENTINA DSPORTS FULL",El Canal de las Estrellas
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dh/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" group-title="ASTRA ARGENTINA DSPORTS FULL",El Gourmet
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0de/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" group-title="ASTRA ARGENTINA DSPORTS FULL",Encuentro
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0e4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Film & Arts HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fh/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Galicia TV" group-title="ASTRA ARGENTINA DSPORTS FULL",Galicia TV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0f7/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="ASTRA ARGENTINA DSPORTS FULL",GRAN HERMANO
+http://oscam281w.ooguy.com:5000/server/1234/Reality/453157/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="ASTRA ARGENTINA DSPORTS FULL",GRAN HERMANO
+http://oscam281w.ooguy.com:5000/server/1234/Reality/454930/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" group-title="ASTRA ARGENTINA DSPORTS FULL",GRAN HERMANO 24/7
+http://oscam281w.ooguy.com:5000/server/1234/Reality/454926/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM1" group-title="ASTRA ARGENTINA DSPORTS FULL",GRAN HERMANO CAM1
+http://oscam281w.ooguy.com:5000/server/1234/Reality/454927/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM2" group-title="ASTRA ARGENTINA DSPORTS FULL",GRAN HERMANO CAM2
+http://oscam281w.ooguy.com:5000/server/1234/Reality/454928/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM3" group-title="ASTRA ARGENTINA DSPORTS FULL",GRAN HERMANO CAM3
+http://oscam281w.ooguy.com:5000/server/1234/Reality/454929/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" group-title="ASTRA ARGENTINA DSPORTS FULL",HGTV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0f0/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="History 2" group-title="ASTRA ARGENTINA DSPORTS FULL",History 2
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ez/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="ASTRA ARGENTINA DSPORTS FULL",History Channel
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0c8/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="HTV" group-title="ASTRA ARGENTINA DSPORTS FULL",HTV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gd/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="IN" group-title="ASTRA ARGENTINA DSPORTS FULL",IN
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g1/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="La Tele (uy)" group-title="ASTRA ARGENTINA DSPORTS FULL",La Tele (uy)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fu/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" group-title="ASTRA ARGENTINA DSPORTS FULL",Lifetime
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0d5/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="MTV" group-title="ASTRA ARGENTINA DSPORTS FULL",MTV
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0gc/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" group-title="ASTRA ARGENTINA DSPORTS FULL",Nat Geo HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0cn/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" group-title="ASTRA ARGENTINA DSPORTS FULL",Nick Jr
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dc/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="ASTRA ARGENTINA DSPORTS FULL",Nickelodeon
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0c5/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" group-title="ASTRA ARGENTINA DSPORTS FULL",Pakapaka
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0g2/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-title="ASTRA ARGENTINA DSPORTS FULL",Playboy
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fp/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" group-title="ASTRA ARGENTINA DSPORTS FULL",Quiero Musica
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0f4/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="RAI Italia" group-title="ASTRA ARGENTINA DSPORTS FULL",RAI Italia
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0f6/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Rural" group-title="ASTRA ARGENTINA DSPORTS FULL",Rural
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ew/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Saeta Canal 10 (uy)" group-title="ASTRA ARGENTINA DSPORTS FULL",Saeta Canal 10 (uy)
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fw/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" group-title="ASTRA ARGENTINA DSPORTS FULL",Sextreme
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fr/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" group-title="ASTRA ARGENTINA DSPORTS FULL",The History Channel HD
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0co/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="ASTRA ARGENTINA DSPORTS FULL",TVE
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dk/index.m3u8?device_id=d7e4f3761ec4
+#EXTINF:-1 tvg-id="" tvg-name="Venus" group-title="ASTRA ARGENTINA DSPORTS FULL",Venus
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0fq/index.m3u8?device_id=d7e4f3761ec4
+
+
+
+
 # 1. EVENTO: COPA MUNDIAL DE LA FIFA 2026™
 # ==========================================
 
