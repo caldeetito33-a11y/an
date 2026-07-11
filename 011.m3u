@@ -1,6 +1,28 @@
 #EXTM3U refresh="0.01" x-tvg-url="https://www.open-epg.com/generate/rU5mn2F5pm.xml,https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
+http://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/DPh0JyJD/nickclasico.jpg",NICK CLASICO
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
+http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS 
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP2
+http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg" group-title="VARIOS",FUTURAMA
+http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="ASTRA ARGENTINA DSPORTS FULL",26TV
 http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0g6/index.m3u8?device_id=d7e4f3761ec4
 #EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="ASTRA ARGENTINA DSPORTS FULL",26TV
