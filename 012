@@ -1961,315 +1961,419 @@ http://181.209.37.74:8001/play/a09c/index.m3u8?token=miguel2026
 http://181.209.37.74:8001/play/a068/index.m3u8?token=miguel2026
 
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",26TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/26tv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/a24
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Telefe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/telefe_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",America TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/america_tv_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/c5n
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Canal a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/canal_a
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/canal_de_la_ciudad
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",ciudad magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/ciudad_magazine
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",CNN en Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/cnn_en_espa__ol
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Cronica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/cronica
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",el nueve HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/el_nueve_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",el trece HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/el_trece_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",La Nacion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/la_nacion_tv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Metro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/metro
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",RT en Espa ol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/rt_en_espa__ol
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tn_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TV Publica HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tv_publica_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",AM Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/am_sports
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",DeporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/deportv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",DSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/dsport
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",DSports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/dsports_2_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",DSports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/dsports_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/espn_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",ESPN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/espn_2_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",ESPN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/espn_3_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",ESPN 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/espn_4_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",ESPN Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/espn_premium_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Fox Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/fox_sports_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Fox Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/fox_sports_2_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Fox Sports 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/fox_sports_3_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TNT Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tnt_sports_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TyC Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tyc_sports_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",A&E HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/a_e_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Adult swim HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/adult_swim_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/amc
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/axn_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Cine.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/cine_ar
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Cinecanal HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/cinecanal_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/cinemax
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Comedy Central HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/comedy_central_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",El Canal  de las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/el_canal__de_las_estrellas
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Europa Europa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/europa_europa
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Film & Arts HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/film___arts_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",FX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/fx_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo_2
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo_family
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO Mundi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo_mundi
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo_plus
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo_signature
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HBO Xtreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hbo_xtreme
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/lifetime
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/mtv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",MTV 00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/mtv__00
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Paramount HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/paramount_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Pasiones HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/pasiones_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Sony HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/sony_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Sony Movies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/sony_movies_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Space HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/space_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Star Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/star_channel_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Studio Universal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/studio_universal
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tcm
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Telemundo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/telemundo_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TLNovelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tlnovelas
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tnt_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TNT Novelas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tnt_novelas_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TNT Series HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tnt_series_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Universal HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/universal_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Venus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/venus
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Volver
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/volver
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Warner Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/warner_channel_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/animal_planet_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_channel_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery H&H HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_h_h_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_science
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery Theater HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_theater_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_turbo
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery World HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_world_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",El Gourmet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/el_gourmet
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Encuentro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/encuentro
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/hgtv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/history_2
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",History Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/history_channel
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Nat Geo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/nat_geo_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Rural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/rural
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Sextreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/sextreme
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",The History Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/the_history_channel_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/baby_tv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/cartoon_network_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/discovery_kids
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Disney Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/disney_channel_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/disney_junior
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/nick_jr
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/nickelodeon
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Pakapaka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/pakapaka
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",HTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/htv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Quiero Musica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/quiero_musica
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",E! Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/e__entertainment
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Enlace HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/enlace_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",Galicia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/galicia_tv
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",RAI Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/rai_italia
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",T5 SATELITAL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/t5_satelital_hd
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/tve
 #EXTINF:0 group-title="LISTA ARGENTINA NUEVA FULL HD",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 http://100.81.1.2:8000/play/usa_network
 
