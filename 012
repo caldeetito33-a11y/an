@@ -21,6 +21,27 @@ https://www.dailymotion.com/cdn/live/video/x7zh5gd.m3u8?sec=6S7bKIuc_I61nv1iltGB
 #EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="Música", Radio Farra tvtps://stream.farra.com.py/live/farra_src.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="🟢 DEPORTES"🟢 Tnt Sports
+https://smt-usr-edge05.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?cdntoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjbGllbnRfaWQiOiIzMTYyNTY4OSIsImRldmljZV9pZCI6IjIxMjIzMDIiLCJwYXRoIjoiL2xpdmUvZWRzL1ROVFNwb3J0cy9saXZlX2Rhc2hfY2xkL1ROVFNwb3J0cy5tcGQiLCJzaXAiOiIxNjguMTk3LjIxOC4zNCIsImV4cCI6MTc5MTU5MDExMX0.z9UTMrXb9PRSfoDGg_SXphFcVSyJihQtHYW8c2YvTPrwXzFv93u5DkqzBO1khXaDEQHkcxfCmhiuuKbbYe_ncw
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="🟢 DEPORTES"🟢 Tnt Sports
+https://smt-usr-edge05.sensa.com.ar/tok_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjbGllbnRfaWQiOiIzMTYyNTY4OSIsImRldmljZV9pZCI6IjIxMjIzMDIiLCJwYXRoIjoiL2xpdmUvZWRzL1ROVFNwb3J0cy9saXZlX2Rhc2hfY2xkL1ROVFNwb3J0cy5tcGQiLCJzaXAiOiIxNjguMTk3LjIxOC4zNCIsImV4cCI6MTc5MTU5MDExMX0.z9UTMrXb9PRSfoDGg_SXphFcVSyJihQtHYW8c2YvTPrwXzFv93u5DkqzBO1khXaDEQHkcxfCmhiuuKbbYe_ncw/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-name="TNT SPORTS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="🟢 DEPORTES"🟢 Tnt Sports
+https://smt-usr-edge05.sensa.com.ar/tok_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJjbGllbnRfaWQiOiIzMTYyNTY4OSIsImRldmljZV9pZCI6IjIxMjIzMDIiLCJwYXRoIjoiL2xpdmUvZWRzL1ROVFNwb3J0cy9saXZlX2Rhc2hfY2xkL1ROVFNwb3J0cy5tcGQiLCJzaXAiOiIxNjguMTk3LjIxOC4zNCIsImV4cCI6MTc5MTU5MDExMX0.z9UTMrXb9PRSfoDGg_SXphFcVSyJihQtHYW8c2YvTPrwXzFv93u5DkqzBO1khXaDEQHkcxfCmhiuuKbbYe_ncw/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?
 
 
 
