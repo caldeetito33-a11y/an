@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png" group-title="Provinciales", Canal 12 Misiones
@@ -25,6 +25,7 @@ https://stream.farra.com.py/live/farra_src.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=589f5b6f4afec0b3362cd6be2ab1eb36:6d685f3151730ca6a4be7765a46d30a5
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="Nacional",TV Pública
 https://edge-live20-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMzc0MTE2Iiwic2lwIjoiMTg2LjE5LjgwLjI0OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Tb21vc19Ob3J0ZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMyZDY0YzI0NjYxOTNmODkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzE4Iiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.-wpYxGIygCVz5s5qyYayFT4kK8QG8fj2n5gvzwhX3LZM47eCCiv3pAv6j6QjNTD9-GdfEUTCPTetkFPHgPSuKg==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
