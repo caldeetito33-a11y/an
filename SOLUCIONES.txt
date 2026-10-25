@@ -1,0 +1,369 @@
+#EXTM3U
+
+NACIONALES
+
+#EXTINF:-1 tvg-id="America.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/america-ar.png" group-title="Nacional",América TV 
+http://iparatodos-strlr4.qvixsolutions.com/americahd/index.m3u8?filter.tracks=v2v1a1&token=11ae1bd280a8bd992aa4a0ee467d5a5605753ffb-GQPT-1792970955-1792941855
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="Nacional",TV Pública 
+http://iparatodos-strlr2.qvixsolutions.com/tvpublica/index.m3u8?filter.tracks=v1v2v3a1&token=ea1d7c7159e1f37e01dc0b09d46ebc13a2d758a6-w8YB-1792971241-1792942141
+
+
+#EXTINF:-1 tvg-id="0916" tvg-logo="https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png" group-title="Nacional",El Nueve HD
+http://iparatodos-strlr2.qvixsolutions.com/canal9hdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=37b8d4cdd2020f5b2e58664e8ae9e085fc313c06-WfXG-1792971539-1792942439
+
+#EXTINF:-1 tvg-id="0916" tvg-logo="https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png" group-title="Nacional",El Nueve
+http://iparatodos-strlr1.qvixsolutions.com/canal9/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2a1a2&token=52faaef92e0efb6c54999de982c6811c570f84be-aQ1i-1792971672-1792942572
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Nacional",Telefe HD
+http://iparatodos-strlr3.qvixsolutions.com/telefehd/index.m3u8?filter.tracks=v1v2a1a2&token=88cde705038e795615c52924bb92d4bd1fb21b12-NhQS-1792972676-1792943576
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Nacional",Telefe HD OPC 2
+http://200.91.32.156/lbview/telefehdvalle/index.m3u8?filter=tracks:v1v2a1a2&token=7bb424ed2be16d1792c90db527ee343503971272-pn9G-1792972077-1792942977
+
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" group-title="Nacional",El Trece HD
+http://iparatodos-strlr1.qvixsolutions.com/canal13hdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=99bbf524b03264b56b64400786b4668deef6a2fd-ly7E-1792972345-1792943245
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" group-title="Nacional",El Trece SD
+http://iparatodos-strlr2.qvixsolutions.com/canal13/index.m3u8?token=ec961402ae48fc65c5cc520998a9e5f193ef480d-qwvo-1792972224-1792943124
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/22986115071847.png" group-title="Nacional",TN HD
+http://iparatodos-strlr2.qvixsolutions.com/tnhdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=f44f132100746200b5d8acbe270b233a91c8cc6c-3G8M-1792972541-1792943441
+
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/22986115071847.png" group-title="Nacional",TN SD
+http://iparatodos-strlr2.qvixsolutions.com/tn/index.m3u8?token=a4aa28b18bd60b633de71f5b9ae918c426ac8ae7-XrQq-1792972402-1792943302
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Nacional",A24 SD
+http://iparatodos-strlr4.qvixsolutions.com/a24/index.m3u8?token=2f2fe8d2586d47d02cdc737a2a564e926e2705ce-MUZh-1792972756-1792943656
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="Nacional",C5N 
+http://iparatodos-strlr4.qvixsolutions.com/c5n/index.m3u8?token=7547df994d8f18535a6f72dbec23137c2c8d4535-X723-1792972915-1792943815
+
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="CAN26" tvg-logo="https://i.ibb.co/60XLr3MX/canal26-logo.png" group-title="Nacional",Canal 26 
+http://iparatodos-strlr3.qvixsolutions.com/26tv/index.m3u8?token=61d2914d25f09d86dd7afbfa524d2e71bbd4830e-7s9Q-1792972962-1792943862
+
+#EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Nacional",La Nación + 
+http://iparatodos-strlr2.qvixsolutions.com/lnmas/index.m3u8?token=d53706178f89c9d092f8f845326405dd6edb51fb-IL0d-1792973059-1792943959
+
+#EXTINF:-1 tvg-id="CN23.AR" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/2_20181031152737.png" group-title="CN23",CN23 
+http://iparatodos-strlr3.qvixsolutions.com/cn23/tracks-v3a1/mono.ts.m3u8?token=ad459ce55fc3831d57ae40c924bac9c8d55c4c52-Sp8e-1792973157-1792944057
+
+#EXTINF:-1 tvg-logo="http://viewtv.iparatodos.com.ar/b88a6319-d8dd-4b73-817d-4822b7bab3a0", LIDER TV
+http://iparatodos-strlr4.qvixsolutions.com/lider/index.m3u8?token=cd523f3eb9c8bd82aab4e39fa3566f0bd2f8e81b-P7IO-1792992195-1792963095
+
+#EXTINF:-1 tvg-logo="http://viewtv.iparatodos.com.ar/feed7a94-9ca8-4aff-b738-6d46b539399f", RADIO LIBERTAD
+http://iparatodos-strlr3.qvixsolutions.com/rlibertad/index.m3u8?filter.tracks=v1v2a1&token=8eebdd1f9e02902801bac4aee84ccef09eecc1c8-XL5k-1792992315-1792963215
+
+#EXTINF:-1 tvg-logo="http://viewtv.iparatodos.com.ar/b22c984b-ff77-4d03-a0ce-0204c62eb663", PUCARA
+http://iparatodos-strlr4.qvixsolutions.com/pucarahd/index.m3u8?filter.tracks=v1v2v3v4a1&token=3bedb21685899e2fea819b1eed77f7e841a0b457-875V-1792992047-1792962947
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/encuentro-ar.png" group-title="Nacional", Encuentro
+http://iparatodos-strlr2.qvixsolutions.com/encuentro/index.m3u8?token=bda8f57eb63d627613d376b8598a11adec86f740-i4wb-1792973385-1792944285
+
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png" group-title="Nacional",Volver 
+http://iparatodos-strlr2.qvixsolutions.com/volver/index.m3u8?token=93e8fa4dbc43ab0f503aa533143c4ce7d56591a3-jClC-1792977543-1792948443
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.ibb.co/cg1pSBg/cinear.png" group-title="Nacional",Cine.AR 
+http://iparatodos-strlr4.qvixsolutions.com/cinear/index.m3u8?token=48be4c6963b35d9bf9d7a7a3c31ed607ea54a411-aTqR-1792977246-1792948146
+
+
+#EXTINF:-1 tvg-id="VERSIONRIOJA.AR" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/1_20181004095407.png" group-title="Nacional", VERSION RIOJA
+http://iparatodos-strlr3.qvixsolutions.com/visionrioja/index.m3u8?token=cdfa49e32f1dc863cf547c9f3ab5da53faeacfeb-wVIa-1792973585-1792944485
+
+
+#EXTINF:-1 tvg-id="CANAL9LARIOJA.AR" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/2_20180921165427.png" group-title="Nacional", CANAL 9 LA RIOJA
+http://iparatodos-strlr2.qvixsolutions.com/canal9lr/index.m3u8?token=5449a654f1cc95527a01ae6361aabc9decb42b5e-WhS5-1792973702-1792944602
+
+#EXTINF:-1 tvg-id="CANAL13LARIOJA.AR" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/2_20180921165427.png" group-title="Nacional", CANAL 13 LA RIOJA
+http://iparatodos-strlr2.qvixsolutions.com/canal13larioja/index.m3u8?token=bf2b94df03ad7db2bb5eca6929a8687db8f85b20-y6FN-1792973894-1792944794
+
+#EXTINF:-1 tvg-id="LATEPLAYTV.AR" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/1_20220608144847.png" group-title="Nacional", LATE PLAY TV
+http://iparatodos-strlr4.qvixsolutions.com/lateplay/index.m3u8?token=9bb73a75d94ca94dac064b00d3dda48abb2de358-Eiq6-1792974031-1792944931
+
+#EXTINF:-1 tvg-id="CONSTRUIRTV.AR" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/2_20180720171745.png" group-title="Nacional", CONSTRUIR TV
+http://iparatodos-strlr2.qvixsolutions.com/construirtv/index.m3u8?token=e243a2eb0e1ff9ede7849d15c90f499878e70ccc-Wpp2-1792974188-1792945088
+
+#EXTINF:-1 tvg-id="0912" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/argentinisima-satelital-ar.png" group-title="Nacional",Argentinisima
+http://iparatodos-strlr4.qvixsolutions.com/argentinisima/index.m3u8?token=be7be6b6a2fc6a00fc272ed538ec1c32c67d46bf-zhX6-1792974320-1792945220
+
+#EXTINF:-1 tvg-id="canalrural.ar" tvg-logo="http://viewtv.iparatodos.com.ar/img/channels/2_20180720171745.png" group-title="Nacional", CANAL RURAL
+http://iparatodos-strlr4.qvixsolutions.com/rural/index.m3u8?token=5b47b152df799360a9ebca8806c18f326c88586b-xQMK-1792974395-1792945295
+
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-sports-ar.png?raw=true" group-title="Deportes",America Sports 
+http://iparatodos-strlr2.qvixsolutions.com/americasports/index.m3u8?token=be30ea52f8b81e4c99af5ac7aee1870b084ae988-OdTH-1792974583-1792945483
+
+#EXTINF:-1 tvg-id="TELESUR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-sports-ar.png?raw=true" group-title="NACIONAL",TELESUR
+http://iparatodos-strlr4.qvixsolutions.com/telesur/index.m3u8?token=08f01aba0b58de84bc782e84ac6cfb8546e0ed16-2jt9-1792974639-1792945539
+
+#EXTINF:-1 tvg-id="Ar12.ar" tvg-name="AR|12" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="Nacional",AR|12 
+http://iparatodos-strlr4.qvixsolutions.com/arg12/index.m3u8?token=2caadc5fa00fc1602127e928030b2772425890b2-r9jz-1792974747-1792945647
+
+#EXTINF:-1 tvg-id="Canalluz.ar" tvg-name="CANAL LUZ" tvg-logo=http://viewtv.iparatodos.com.ar/img/channels/2_20181031163111.png" group-title="Nacional",CANAL LUZ
+http://iparatodos-strlr2.qvixsolutions.com/luz/index.m3u8?token=f15ab293394ba1b714df85fd1ed9aa3e3adcdb07-wk3u-1792974847-1792945747
+
+#EXTINF:-1 tvg-id="medioslarioja.ar" tvg-name="MEDIOS LA RIOJA" tvg-logo=http://viewtv.iparatodos.com.ar/img/channels/2_20181031163111.png" group-title="Nacional",MEDIOS LA RIOJA
+http://iparatodos-strlr2.qvixsolutions.com/mediosrioja/index.m3u8?filter.tracks=v1v2a1&token=1bacebcfb00c65a472430d1a7c726ea40337b792-SAyZ-1792975020-1792945920
+
+#EXTINF:-1 tvg-id="FENIXTV.AR" tvg-name="FENIX TV" tvg-logo=http://viewtv.iparatodos.com.ar/img/channels/2_20181031163111.png" group-title="Nacional",FENIX TV
+http://iparatodos-strlr4.qvixsolutions.com/fenix/index.m3u8?token=3f44c0409d49117650d4f6d97b52ec698c32483c-hAHD-1792975150-1792946050
+
+#EXTINF:-1 tvg-id="TELEMUNDO.uy" tvg-logo="https://img.rtve.es/i/?w=1600&i=01731321526431.png" group-title="Novelas + Variedades",TELEMUNDO
+http://iparatodos-strlr4.qvixsolutions.com/telemundo/index.m3u8?token=5b7efd99e7d404652c2bce9fab2dcee04efaf58c-Z7FI-1792984429-1792955329
+
+#EXTINF:-1 tvg-id="RTVE.uy" tvg-logo="https://img.rtve.es/i/?w=1600&i=01731321526431.png" group-title="Novelas + Variedades",TVE
+http://iparatodos-strlr4.qvixsolutions.com/tve/index.m3u8?token=0a452b8aa802d5e2777a407a18dc878464b8f36e-pAa9-1792984260-1792955160
+
+DEPORTES
+
+#EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes",ESPN
+http://iparatodos-strlr1.qvixsolutions.com/espn/index.m3u8?filter.tracks=v1v2a1&token=fa384ff72f6b3b544868db0cf5ca7681d9d0a44c-pWSp-1792975680-1792946580
+
+#EXTINF:-1 tvg-id="1412" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="Deportes",ESPN 2 
+http://iparatodos-strlr4.qvixsolutions.com/espn2/index.m3u8?token=42f7ae0e6c3078ad1a99c8a8263e90381f51f03a-goUp-1792975756-1792946656
+
+#EXTINF:-1 tvg-id="2413" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="Deportes",ESPN 3 
+http://iparatodos-strlr4.qvixsolutions.com/espn3/index.m3u8?filter.tracks=v1v2a1&token=0551c811208d7b9722ece8066b1aa260c993a691-PQS5-1792975786-1792946686
+
+#EXTINF:-1 tvg-id="0414" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" group-title="Deportes",ESPN 4 
+http://iparatodos-strlr1.qvixsolutions.com/espnmas/index.m3u8?token=0152eb1a7bc889e765ad005be3d38e036de7ace5-KCLI-1792993269-1792964169
+
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Pack Fútbol Argentino", ESPN Premium HD
+http://iparatodos-strlr2.qvixsolutions.com/foxsportspremium/index.m3u8?filter.tracks=v1v2v3a1&token=4acf2a75350a8f8f753d576c5fd509c6e22003bc-WKaI-1792975950-1792946850
+
+#EXTINF:-1 tvg-id="0404" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Pack Fútbol Argentino", TNT Sports Premium HD
+http://iparatodos-strlr4.qvixsolutions.com/tntsports/index.m3u8?filter.tracks=v1v2v3a1&token=0ee96cd5b52759d66fd1c0ab5954336e4f8af2a4-pkEM-1792976114-1792947014
+
+
+#EXTINF:-1 tvg-id="1431" tvg-logo="https://i.imgur.com/UvlmJRi.jpeg" group-title="Deportes",DSports 
+http://iparatodos-strlr3.qvixsolutions.com/dsportshd/index.m3u8?filter=tracksv1a1&token=5ff2f49ea3175417f26bb925b03a62f7e01b7156-vHip-1792976215-1792947115
+
+#EXTINF:-1 tvg-id="1432"  tvg-logo="https://i.postimg.cc/hGDVfzgm/dsports-2.png" group-title="Deportes",DSports 2
+http://iparatodos-strlr4.qvixsolutions.com/dsports2hd/index.m3u8?filter=tracksv1a1&token=5cb907146dcf4d8a076acd4ae73243ab6f8ff369-kbu2-1792976303-1792947203
+
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png" group-title="Deportes",TyC Sports HD 
+http://iparatodos-strlr2.qvixsolutions.com/tychdvalle/index.m3u8?filter.tracks=v1v2v3a1&token=5ecc927cbe44047fc786d9baeba7661c2e194e6b-SEdD-1792975374-1792946274
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png" group-title="Deportes",TyC Sports HD OP2
+http://iparatodos-strlr3.qvixsolutions.com/tychd/index.m3u8?filter.tracks=v1v2v3a1&token=7d8d9ebc652558094739b7b452b909f76a2859ba-lsZZ-1792975450-1792946350
+
+#EXTINF:-1 tvg-id="TyC Sports 2" tvg-name="TyC Sports 2" tvg-logo="https://www.totalmedios.com/img/noticias/2026/08/6a90d38c2b1d7.jpg" group-title="Deportes",TyC Sports 2
+http://iparatodos-strlr4.qvixsolutions.com/tyc2hd/index.m3u8?filter.tracks=v1v2a1a2&token=6a7beae023b36ac625fee2bd23fb95ac11043cae-CLcz-1792975849-1792946749
+
+#EXTINF:-1 tvg-id="1437" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png" group-title="Deportes",FOX Sports 2 
+http://iparatodos-strlr3.qvixsolutions.com/foxsports2/index.m3u8?filter.tracks=v1v2v3a1&token=b12cf31fefb4214141bdbc990e78c60fb70c7920-iJl8-1792975617-1792946517
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Deportes",DeporTV 
+http://iparatodos-strlr4.qvixsolutions.com/deportv/index.m3u8?token=ff3617955bf910ba0d8e09105ae6095e9f12fed1-L4wi-1792975250-1792946150
+
+
+
+INFANTILES
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.ibb.co/8n8StwzV/paka-paka.png" group-title="Infantil", Paka Paka
+http://iparatodos-strlr3.qvixsolutions.com/pakapaka/index.m3u8?token=350dd2c96888335ad7fc3d3c52a65249dfdba275-RvYI-1792976330-1792947230
+
+#EXTINF:-1 tvg-id="Discovery Kids HD.uy" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil",Discovery Kids
+http://iparatodos-strlr1.qvixsolutions.com/discoverykids/index.m3u8?token=ea331fa0101be85001b205e0aac34650e2821916-f9Gm-1792976475-1792947375
+
+#EXTINF:-1 group-title="Infantil" tvg-id="Baby TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/800/542/0/0/2335855007695.png",Baby TV
+http://iparatodos-strlr4.qvixsolutions.com/babytv/index.m3u8?token=ae98461f8ba6e0b321ce185da335a912e1b04f83-vVRK-1792976571-1792947471
+
+#EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.postimg.cc/vmjDf8ZR/Texto_Blanco.png" group-title="Infantil",Cartoon Network
+http://iparatodos-strlr3.qvixsolutions.com/ctnarg/index.m3u8?token=33d46df4bf9d07f8c867513ad64923c913a15629-re0x-1792976675-1792947575
+
+#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/nickelodeon-ar.png" group-title="Infantil", Nickelodeon
+http://iparatodos-strlr1.qvixsolutions.com/nicksur/index.m3u8?token=dc69d031b2f62cadff64acae825e3c304b0cfd0a-hZiK-1792976732-1792947632
+
+#EXTINF:-1 tvg-id="Disney Channel HD.uy" tvg-logo="https://i.ibb.co/vdfh1bd/disney-channel.png" group-title="Infantil",Disney Channel
+http://iparatodos-strlr3.qvixsolutions.com/disneysur/index.m3u8?token=d6edebdb88a82e172112587fd4ba6f96ed2409e7-9YjN-1792976827-1792947727
+
+#EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.postimg.cc/1zqBLLZT/Disney_JR.png" group-title="Infantil",Disney Jr.
+http://iparatodos-strlr1.qvixsolutions.com/disneyjr/index.m3u8?filter.tracks=v1v2v31a1&token=0551e69ae6521f8bdb50273121e8c5b47e1ef6a5-kjBw-1792976916-1792947816
+
+#EXTINF:-1 tvg-id="Tooncast.uy"  tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" group-title="Infantil",Tooncast
+http://iparatodos-strlr3.qvixsolutions.com/tooncast/index.m3u8?token=1149b3a338291fe4a89bd9e07e66cd7aa0059dea-dioV-1792976974-1792947874
+
+#EXTINF:-1 tvg-id="Cartoonito HD.uy" tvg-logo="https://i.postimg.cc/bwHN3vGc/Fondo-Oscuro.png" group-title="Infantil",Cartoonito
+http://iparatodos-strlr4.qvixsolutions.com/cartoonito/index.m3u8?token=6a2c5ec367c8e798611b4eac46c18d2c584c6fd5-KRvA-1792977029-1792947929
+
+
+CINE
+
+#EXTINF:-1 tvg-id="HBO HD.uy" tvg-logo="https://i.ibb.co/VjjgVWW/hbo.png" group-title="HBO + Universal",HBO 
+http://iparatodos-strlr1.qvixsolutions.com/hbo/index.m3u8?filter.tracks=v1v2v3a1&token=e511d86e2492dbe3a3cb5d8ad832b9259e690aed-DIHT-1792986788-1792957688
+
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="HBO + Universal",HBO 2
+http://iparatodos-strlr1.qvixsolutions.com/hbo2/index.m3u8?token=05cd2c0ec354214e6039ea5ab52fca788f2abc63-8oOY-1792986863-1792957763
+
+#EXTINF:-1 322" tvg-id="HBO Family.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="HBO + Universal",HBO Family 
+http://iparatodos-strlr3.qvixsolutions.com/hbofamily/index.m3u8?token=18d20554666481f48a67fe17130cb0b6520b4e2c-ahOF-1792986906-1792957806
+
+#EXTINF:-1 321" tvg-id="HBO Plus HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="HBO + Universal",HBO Plus
+http://iparatodos-strlr2.qvixsolutions.com/hboplus/index.m3u8?filter.tracks=v1v2v3v4a2a1t1&token=0902b49dca61165f36e8ae3fb7dfc370a2240b8c-8xQ9-1792986956-1792957856
+
+#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="HBO + Universal",HBO Signature 
+http://iparatodos-strlr3.qvixsolutions.com/hbosignature/tracks-a1/mono.ts.m3u8?token=b49496183a12a65cc16f9797305e695c1a315770-qGfG-1792991714-1792962614
+
+#EXTINF:-1 323" tvg-id="HBO Mundi HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="HBO + Universal",HBO Mundi 
+http://iparatodos-strlr3.qvixsolutions.com/hbomundi/index.m3u8?filter.tracks=v1v2v3a1&token=c7d10ccf6983c5298d3bc0c4512ef3f67ad2294e-hJYS-1792991772-1792962672
+
+#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="HBO + Universal",HBO Xtreme 
+http://iparatodos-strlr2.qvixsolutions.com/hboxtreme/index.m3u8?filter.tracks=v1v2v3a1&token=b76da3ad5786a7f3b580ca54954698571b526c7c-8hgo-1792991853-1792962753
+
+#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="HBO + Universal",HBO Pop 
+http://iparatodos-strlr3.qvixsolutions.com/hbopop/index.m3u8?filter.tracks=v1v2v3a1&token=ca0f4f763aadfabde5f9d6c4d20827f3ee59f04b-r2WY-1792991919-1792962819
+
+
+
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png" group-title="HBO + Universal",Universal Cinema
+http://iparatodos-strlr4.qvixsolutions.com/universalcinemahd/index.m3u8?filter.tracks=v1v2a1a2&token=3b4bdff7a047471389a1a4fa4be602a427aba709-lOrR-1792992805-1792963705
+
+
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="HBO + Universal",Universal Comedy 
+http://iparatodos-strlr4.qvixsolutions.com/universal_comedy/index.m3u8?filter.tracks=v1v2a1a2&token=a2535ac672de07fd4628bf662303e897f0f27868-qV1A-1792992904-1792963804
+
+
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="HBO + Universal",Universal Premiere
+http://iparatodos-strlr2.qvixsolutions.com/universalpremierehd/index.m3u8?filter.tracks=v1v2a1a2&token=3d041930136be925861be36b1f725c2e9c0b0429-YbM0-1792992967-1792963867
+
+#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="HBO + Universal",Universal Crime 
+http://iparatodos-strlr1.qvixsolutions.com/universalcrimehd/index.m3u8?filter.tracks=v1v2a1a2&token=fae8bf589ec7fd6aa027bee2ecaa84909f1f97c1-2PJh-1792993048-1792963948
+
+#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/UNIRE.png" group-title="HBO + Universal",Universal Reality
+http://iparatodos-strlr2.qvixsolutions.com/universalrealityhd/index.m3u8?filter.tracks=v1v2a1a2&token=62f97dd2c954c2d2f8674cf84c031835db2d082d-zoRi-1792993139-1792964039
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://viewtv.iparatodos.com.ar/e5859076-d97a-4716-a17b-e2322a3bdb7b", LA 4X4 DE LEO 
+http://iparatodos-strlr4.qvixsolutions.com/la4x4deleo/index.m3u8?token=75dda1fb984288004d5ffe0a2640f89f7b61b42e-E94G-1792991953-1792962853
+
+#EXTINF:-1 tvg-id="Europa Europa HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="Cine + Series",Europa Europa 
+http://iparatodos-strlr2.qvixsolutions.com/europa/index.m3u8?token=1e8cab43ed00e0387526c830b42f4802cac9df2d-ezTc-1792985919-1792956819
+
+#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png" group-title="Cine + Series",Adult Swim
+http://iparatodos-strlr4.qvixsolutions.com/adultswimhd/index.m3u8?filter.tracks=v1v2v3a1a2&token=e9b9ba0a616edb1ad0fbef20d91e2c003f1a0293-cPfd-1792986022-1792956922
+
+#EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/7718553707879.png" group-title="Cine + Series",Star Channel 
+http://iparatodos-strlr4.qvixsolutions.com/starchannel/index.m3u8?token=30140159d226a3b937b300daa9a11af855c86e71-Volb-1792984673-1792955573
+
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/46.png" group-title="Cine + Series",Warner TV 
+http://iparatodos-strlr3.qvixsolutions.com/warner/index.m3u8?token=75406bbc8993e1c9ef1b853efecd9dc70465de39-RUGn-1792985193-1792956093
+
+#EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/400/400/0/0/95118087071584.png" group-title="Cine + Series",A&E 
+http://iparatodos-strlr4.qvixsolutions.com/ae/index.m3u8?token=bacc5496add49a765c459a023e6ef64bd6bb25ab-4wVT-1792985487-1792956387
+
+#EXTINF:-1 tvg-id="AXN HD.uy" tvg-name="AXN" tvg-logo="https://i.postimg.cc/tgMkfpfB/Fondo-Oscuro.png" group-title="Cine + Series",AXN
+http://iparatodos-strlr1.qvixsolutions.com/axn/index.m3u8?token=9dad8d98759c2116e70347365a6c1e68a9b8b9e8-5wbg-1792985596-1792956496
+
+#EXTINF:-1 tvg-id="Sony HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="Cine + Series",Sony Channel
+http://iparatodos-strlr1.qvixsolutions.com/sony/index.m3u8?filter.tracks=v1v2v3a1a2t1&token=f5337abaa197eceb515a62f3d0333865e1f341a6-Ovjq-1792984893-1792955793
+
+#EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Cine + Series", Space 
+http://iparatodos-strlr4.qvixsolutions.com/space/index.m3u8?token=8e14b6eb83a06e539560b3dc728d955e0277df84-FXWw-1792977095-1792947995
+
+#EXTINF:-1 tvg-id="TNT Series HD.uy" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine + Series",TNT Series 
+http://iparatodos-strlr2.qvixsolutions.com/tntseries/index.m3u8?filter.tracks=v1v2v3v4a1a2&token=8030a94c2d2b66c41d6be94dcd870c345e297a3d-7YhA-1792984151-1792955051
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/51768317" group-title="Cine + Series",TNT 
+http://iparatodos-strlr2.qvixsolutions.com/tntarg/index.m3u8?filter.tracks=v1v2a1&token=98e06e79bfc8e0e0429b40c8e971d9e595db5f6e-2Eco-1792977678-1792948578
+
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/400/400/0/0/1820288007328.png" group-title="Cine + Series",TCM 
+http://iparatodos-strlr2.qvixsolutions.com/tcm/index.m3u8?token=febe6659a1886633c46ef44fdf91b6582acf6c4d-i3vW-1792977728-1792948628
+
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-name="TNT NOVELAS" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/TNTNO.png" group-title="Novelas + Variedades",TNT Novelas
+http://iparatodos-strlr1.qvixsolutions.com/tntnovelas/index.m3u8?token=386b07b28275c8de83f7c6e5a9ae8b1d6626328b-E78t-1792977776-1792948676
+
+#EXTINF:-1 tvg-id="Golden.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine + Series",Golden 
+http://iparatodos-strlr4.qvixsolutions.com/goldenstudio/index.m3u8?token=a47c8882f33a860048e5736a2566c88c35b14f6c-8Axi-1792983115-1792954015
+
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png" group-title="Cine + Series",FX 
+http://iparatodos-strlr1.qvixsolutions.com/fx/index.m3u8?token=d3f5f05efaf66c58fdc3e9227ec9bc03831f4ee1-2cum-1792983228-1792954128
+
+#EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="Cine + Series",Cinecanal 
+http://iparatodos-strlr2.qvixsolutions.com/cinecanal/index.m3u8?token=6291d8b6eaad579bafebb1274ec3f3d2fddcdb00-uEiE-1792983292-1792954192
+
+#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://i.postimg.cc/PrmQzBjx/Fondo_oscuro.png" group-title="HBO + Universal", Studio Universal 
+http://iparatodos-strlr3.qvixsolutions.com/studiouniversal/index.m3u8?filter.tracks=v1v2v3a1&token=acb19598be0df38ff7b765a996d56e6e2aad8be7-QEaI-1792983337-1792954237
+
+#EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://i.postimg.cc/kGzB3hC6/Logo.png" group-title="Cine + Series",Cinemax 
+http://iparatodos-strlr3.qvixsolutions.com/cinemax/index.m3u8?filter.tracks=v1v2v3v4a1a2&token=b8fd6c6dabf8ad7ca6285880057ddb7ea8d6097e-khDR-1792983390-179295429
+
+#EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine + Series",AMC 
+http://iparatodos-strlr3.qvixsolutions.com/amc/index.m3u8?filter.tracks=v1v2v3v4a1a2&token=37dfc15d5f76c0f21a438ac87ec7caacd8a5d1f8-9ook-1792983432-1792954332
+
+#EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine + Series",AMC 
+http://iparatodos-strlr2.qvixsolutions.com/amcserieshd/index.mpd?filter.tracks=v1v2v3v4a1a2t1t2&token=2833f7f4bfb5caa576c1ae47aa128a8ba2cbd352-AsDj-1792986114-1792957014
+
+
+#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/F%26ART.png"  group-title="Novelas + Variedades",Film & Arts 
+http://iparatodos-strlr1.qvixsolutions.com/filmarts/index.m3u8?token=344ee0028fde3e5aa0a6acdf12c7b1377d838e04-kTlx-1792983473-1792954373
+
+#EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/160/160/0/0/33860159072069.png" group-title="Cine + Series",Comedy Central 
+http://iparatodos-strlr4.qvixsolutions.com/ccentral/index.m3u8?token=400e9ffa4fbe51c696a8aeea785c6db70b483ee3-bzky-1792983530-1792954430
+
+#EXTINF:-1 tvg-id="USA.ar" tvg-name="USA NETWORK.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png" group-title="Cine + Series",USA 
+http://iparatodos-strlr3.qvixsolutions.com/syfy/index.m3u8?token=ffa2e94c003258a438cd1c529b781b9d613f7fa2-9FMI-1792983572-1792954472
+
+#EXTINF:-1 tvg-id="History HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/9019422407178.png" group-title="Novelas + Variedades",History 
+http://iparatodos-strlr4.qvixsolutions.com/history/index.m3u8?token=544731081d4a9037c406bb780364a6d8a66ebabe-Lgbo-1792983636-1792954536
+
+#EXTINF:-1 tvg-id="History 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="Novelas + Variedades",History 2 
+http://iparatodos-strlr4.qvixsolutions.com/history2/index.m3u8?filter.tracks=v1v2v3v4a1a2&token=fdc715bced128a2b9b154d56ffc05ef043ac549b-qz1l-1792983673-1792954573
+
+#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="Novelas + Variedades",National Geographic 
+http://iparatodos-strlr4.qvixsolutions.com/natgeo/index.m3u8?token=415f0e9b19eb7430ef6124a57668ec1427ffd44f-0knz-1792983723-1792954623
+
+#EXTINF:-1 tvg-id="Discovery HD.uy" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png"  group-title="Novelas + Variedades",Discovery
+http://iparatodos-strlr2.qvixsolutions.com/discovery/index.m3u8?token=3a54f62a82c0172a911ff3ec47119c6b2dfaa97f-wuvS-1792983823-1792954723
+
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/DSID.png" group-title="Novelas + Variedades",Discovery ID 
+http://iparatodos-strlr3.qvixsolutions.com/idargentina/index.m3u8?token=ca4b165e966eabbc67002522501eb94d00bddbb1-Ra8V-1792983932-1792954832
+
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true" group-title="Novelas + Variedades",Discovery Home And Health 
+http://iparatodos-strlr3.qvixsolutions.com/homehealth/index.m3u8?token=0d63f92e5d006c3e132780c8583c3264e30db933-ZgY6-1792984056-1792954956
+
+#EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Novelas + Variedades",Animal Planet 
+http://iparatodos-strlr4.qvixsolutions.com/animalplanet/index.m3u8?token=c1db770cad78f8e82571ad04b2a27dcb07c85442-CeNL-1792984105-1792955005
+
+#EXTINF:-1 tvg-id="TLC HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/160/160/0/0/46230374071624.png" group-title="Novelas + Variedades",Discovery TLC 
+http://iparatodos-strlr2.qvixsolutions.com/tlc/index.m3u8?token=f18e73972c94f5b9e247a30125f075de2dbbc459-tjoL-1792984196-1792955096
+
+#EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://i.postimg.cc/tCYY96r9/Logo-1.png" group-title="Novelas + Variedades",Lifetime 
+http://iparatodos-strlr4.qvixsolutions.com/lifetime/index.m3u8?token=1eeb7559aef71c330d183876c804c35c7308f3aa-i8SD-1792984826-1792955726
+
+#EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ENTMN.png" group-title="Novelas + Variedades",E-Entertaiment 
+http://iparatodos-strlr1.qvixsolutions.com/entertainment/index.m3u8?token=5ecb75e7fa3819f3720dd57d7fcf54c0ea9f90e4-JFBs-1792985115-1792956015
+
+#EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHelgourmet.png" group-title="Novelas + Variedades",El Gourmet 
+http://iparatodos-strlr3.qvixsolutions.com/gourmet/index.m3u8?filter.tracks=v1v2v3v4a1a2&token=3d7a3c05062dfe2a0085902bc61b10b95be32039-kOix-1792985276-1792956176
+
+#EXTINF:-1  tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png" group-title="Novelas + Variedades",Canal De Las Estrellas 
+http://iparatodos-strlr2.qvixsolutions.com/canalestrellas/index.m3u8?token=923c7f81368a9c44760ec4f1310bd05983ff081c-jQHx-1792985398-1792956298
+
+#EXTINF:-1  tvg-id="tectv.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHJdk67nVdjlRILLUvdObGovLmowL0Enkf18Msz5cEkkkA5R-xOgnZwMzE4fi9ViFM0L0_HbeAPv3OIGh2rpx6p5aXUnrXhBqjEyo04v6rlvjBLHFWfWwP1j97NSOIrpNfmhUo_x_hd0pQNc_5EZYIHKenl-9vCsUcBk1XIbxlUZVfBnp0OrNTc96/s320/tectv-2021.png" group-title="Novelas + Variedades",TECTV 
+http://iparatodos-strlr3.qvixsolutions.com/tectv/index.m3u8?token=d8ba72be813b82fea7a454a752efd8ca69937930-PPEr-1792985683-1792956583
+
+#EXTINF:-1 tvg-id="RT.uy" tvg-logo="https://e1.pngegg.com/pngimages/113/677/png-clipart-tv-channel-icons-news-rt.png" group-title="Novelas + Variedades",RT
+http://iparatodos-strlr3.qvixsolutions.com/rt/index.m3u8?token=5700cce9347e54f923a10ce58eb77d83a07926dc-bg6u-1792986252-1792957152
+
+#EXTINF:-1 tvg-id="EWTN.uy" tvg-logo="https://aptcperu.org/wp-content/uploads/2026/03/soporteMesa-de-trabajo-2-copia-45.png" group-title="Novelas + Variedades",EWTN
+http://iparatodos-strlr1.qvixsolutions.com/ewtn/index.m3u8?token=b4f07a96aa59dcef5a52db3d20d785e85aa8c06a-gBQI-1792986506-1792957406
+
+#EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/MTVLA.png" group-title="Música",MTV 
+http://iparatodos-strlr1.qvixsolutions.com/mtvhd/index.m3u8?filter.tracks=v1v2v3a1&token=f89d16ad61607a3c8cd1879d06bc154f9b648ac3-zwpU-1792986661-1792957561
+
+#EXTINF:-1 tvg-id="CanaldelaMusica.ar" tvg-logo="https://i.postimg.cc/3JH12Ykm/CM.png" group-title="Música", Canal de la Música 
+http://iparatodos-strlr3.qvixsolutions.com/cm/tracks-v2a1/2026/10/25/19/50/15-10000.ts?token=c51f2873dcf4a6d63652f8fbad55a68e6e0f73f6-AO2d-1792986701-1792957601
+
+#EXTINF:-1 tvg-id="HTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/800/542/0/0/4926258407115.png" group-title="Música",HTV 
+http://iparatodos-strlr3.qvixsolutions.com/htv/index.m3u8?token=52af383dc7e4cc4ffe4656058df360a62a14d2d7-ULe7-1792986751-1792957651
