@@ -1843,14 +1843,14 @@ http://iparatodos-strlr3.qvixsolutions.com/telefehd/index.m3u8?filter.tracks=v1v
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="VIEW ARGENTINA TV",Telefe HD OPC 2
-http://200.91.32.156/lbview/telefehdvalle/index.m3u8?filter=tracks:v1v2a1a2&token=7bb424ed2be16d1792c90db527ee343503971272-pn9G-1792972077-1792942977
+http://iparatodos-strlr1.qvixsolutions.com/telefehdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=1f072fa65c117ee5a5ce6ef4c580b052f19db0b0-8SsZ-1793001178-1792972078
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" group-title="VIEW ARGENTINA TV",El Trece HD
-http://iparatodos-strlr1.qvixsolutions.com/canal13hdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=99bbf524b03264b56b64400786b4668deef6a2fd-ly7E-1792972345-1792943245
+http://iparatodos-strlr2.qvixsolutions.com/canal13hdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=eaa0fb2e180296055511a0134f91b9390942050d-4T4p-1793001361-1792972261
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" group-title="VIEW ARGENTINA TV",El Trece SD
-http://iparatodos-strlr2.qvixsolutions.com/canal13/index.m3u8?token=ec961402ae48fc65c5cc520998a9e5f193ef480d-qwvo-1792972224-1792943124
+http://iparatodos-strlr2.qvixsolutions.com/canal13/index.m3u8?token=6a7678d9e41ed8ee9fc1a6863b2779017f9b330e-pZdV-1793001263-1792972163
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/22986115071847.png" group-title="VIEW ARGENTINA TV",TN HD
 http://iparatodos-strlr2.qvixsolutions.com/tnhdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=f44f132100746200b5d8acbe270b233a91c8cc6c-3G8M-1792972541-1792943441
