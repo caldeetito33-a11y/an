@@ -1853,11 +1853,10 @@ http://iparatodos-strlr2.qvixsolutions.com/canal13hdvalle/index.m3u8?filter.trac
 http://iparatodos-strlr2.qvixsolutions.com/canal13/index.m3u8?token=6a7678d9e41ed8ee9fc1a6863b2779017f9b330e-pZdV-1793001263-1792972163
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/22986115071847.png" group-title="VIEW ARGENTINA TV",TN HD
-http://iparatodos-strlr2.qvixsolutions.com/tnhdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=f44f132100746200b5d8acbe270b233a91c8cc6c-3G8M-1792972541-1792943441
-
+http://iparatodos-strlr1.qvixsolutions.com/tnhdvalle/index.m3u8?filter.tracks=v1v2a1a2&token=6810b9627b60ea4c3828618815f3aeb12965cd69-BTAw-1793001476-1792972376
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/22986115071847.png" group-title="VIEW ARGENTINA TV",TN SD
-http://iparatodos-strlr2.qvixsolutions.com/tn/index.m3u8?token=a4aa28b18bd60b633de71f5b9ae918c426ac8ae7-XrQq-1792972402-1792943302
+http://iparatodos-strlr4.qvixsolutions.com/tn/index.m3u8?token=95e60ff50fed69c986220b2d5d5c53f7108c05b3-ZvJv-1793001432-1792972332
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="VIEW ARGENTINA TV",A24 SD
 http://iparatodos-strlr4.qvixsolutions.com/a24/index.m3u8?token=2f2fe8d2586d47d02cdc737a2a564e926e2705ce-MUZh-1792972756-1792943656
