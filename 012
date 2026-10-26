@@ -2630,6 +2630,90 @@ http://181.209.37.74:8001/play/a09c/index.m3u8?token=miguel2026
 #EXTVLCOPT:network-caching=1000
 http://181.209.37.74:8001/play/a068/index.m3u8?token=miguel2026
 
+BRASIL
+
+#EXTINF:-1 tvg-name="CNN Brasil" group-title="BRASIL TV",CNN Brasil
+http://45.162.64.114/CNN_BRASIL/index.m3u8
+#EXTINF:-1 tvg-name="GloboNews" group-title="BRASIL TV",GloboNews
+https://16-5-0-235.sslip.io/globonews/index.m3u8
+#EXTINF:-1 tvg-name="Band News" group-title="BRASIL TV",Band News
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 5" group-title="BRASIL TV",Premiere 5
+https://16-5-0-235.sslip.io/premiere5/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 6" group-title="BRASIL TV",Premiere 6
+https://16-5-0-235.sslip.io/premiere6/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 7" group-title="BRASIL TV",Premiere 7
+https://16-5-0-235.sslip.io/premiere7/index.m3u8
+#EXTINF:-1 tvg-name="Premiere 8" group-title="BRASIL TV",Premiere 8
+https://16-5-0-235.sslip.io/premiere8/index.m3u8
+#EXTINF:-1 tvg-name="Warner Channel" group-title="BRASIL TV",Warner Channel
+http://138.204.86.4:8080/WARNER_HD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Movies" group-title="BRASIL TV",Sony Movies
+http://138.204.86.4:8080/SONY_HD/index.m3u8
+#EXTINF:-1 tvg-name="AXN" group-title="BRASIL TV",AXN
+http://138.204.86.4:8080/AXN_HD/index.m3u8
+#EXTINF:-1 tvg-name="Megapix" group-title="BRASIL TV",Megapix
+https://16-5-0-235.sslip.io/megapix/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax" group-title="BRASIL TV",Cinemax
+http://138.204.86.4:8080/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="HBO Plus" group-title="BRASIL TV",HBO Plus
+http://138.204.86.4:8080/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" group-title="BRASIL TV",HBO Family
+http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" group-title="BRASIL TV",HBO Signature
+http://138.204.86.4:8080/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-name="HBO Mundi" group-title="BRASIL TV",HBO Mundi
+http://138.204.86.4:8080/HBO_MUNDI_HD/index.m3u8
+#EXTINF:-1 tvg-name="HBO Pop" group-title="BRASIL TV",HBO Pop
+http://138.204.86.4:8080/HBO_POP_HD/index.m3u8
+#EXTINF:-1 tvg-name="History" group-title="BRASIL TV",History
+http://138.204.86.4:8080/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-name="GNT" group-title="BRASIL TV",GNT
+https://16-5-0-235.sslip.io/gnt/index.m3u8
+#EXTINF:-1 tvg-name="Multishow" group-title="BRASIL TV",Multishow
+https://16-5-0-235.sslip.io/multishow/index.m3u8
+#EXTINF:-1 tvg-name="MTV" group-title="BRASIL TV",MTV
+https://16-5-0-235.sslip.io/mtv/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="BRASIL TV",Discovery Turbo
+http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo HD" group-title="BRASIL TV",Discovery Turbo HD
+http://138.204.86.4:8080/DISCOVERY_TURBO_HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" group-title="BRASIL TV",Discovery Science
+http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Home & Health" group-title="BRASIL TV",Discovery Home & Health
+http://45.162.64.114/DISCOVERY_H_H/index.m3u8
+#EXTINF:-1 tvg-name="Discovery ID" group-title="BRASIL TV",Discovery ID
+http://45.162.64.114/DISCOVERY_ID/index.m3u8
+#EXTINF:-1 tvg-name="Discovery ID HD" group-title="BRASIL TV",Discovery ID HD
+http://138.204.86.4:8080/ID_HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Theater" group-title="BRASIL TV",Discovery Theater
+http://138.204.86.4:8080/DISCOVERY_THEATER_HD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery World" group-title="BRASIL TV",Discovery World
+http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery World HD" group-title="BRASIL TV",Discovery World HD
+http://138.204.86.4:8080/DISCOVERY_WORLD_HD/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="BRASIL TV",Cartoon Network
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids" group-title="BRASIL TV",Discovery Kids
+http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
+#EXTINF:-1 tvg-name="Boomerang" group-title="BRASIL TV",Boomerang
+http://45.162.64.114/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-name="Boomerang HD" group-title="BRASIL TV",Boomerang HD
+http://138.204.86.4:8080/BOOMERANG_HD/index.m3u8
+#EXTINF:-1 tvg-name="RedeTV!" group-title="BRASIL TV",RedeTV!
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-name="Globo" group-title="BRASIL TV",Globo
+http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-name="Globo SP" group-title="BRASIL TV",Globo SP
+https://16-5-0-235.sslip.io/globosp/index.m3u8
+#EXTINF:-1 tvg-name="Globo RJ" group-title="BRASIL TV",Globo RJ
+https://16-5-0-235.sslip.io/globorj/index.m3u8
+#EXTINF:-1 tvg-name="SBT" group-title="BRASIL TV",SBT
+http://138.204.86.4:8080/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-name="Record" group-title="BRASIL TV",Record
+http://138.204.86.4:8080/RECORD/index.m3u8
+#EXTINF:-1 tvg-name="Band" group-title="BRASIL TV",Band
+http://138.204.86.4:8080/BAND_HD/index.m3u8
 
 
 
