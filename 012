@@ -2649,7 +2649,7 @@ http://45.233.58.149:9981/stream/channelid/1492907918?profile=pass
 #EXTVLCOPT:network-caching=1000
 http://45.233.58.149:9981/stream/channelid/1483056830?profile=pass
 #EXTINF:0 group-title="BRASIL TV",Globo
-http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:0 group-title="BRASIL TV",SBT
 #EXTVLCOPT:network-caching=1000
 http://45.233.58.149:9981/stream/channelid/213868459?profile=pass
