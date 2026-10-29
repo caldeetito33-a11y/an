@@ -9,9 +9,9 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---4PO.png"  group-title="MISIONES", Canal 4 Posadas 
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal2misiones.com.ar/img/canal2-header-1100X200.jpg",Canal 2 Misiones
-https://nd106.republicaservers.com/canal2misioness.mp4?tkn=1988577302
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal2misiones.com.ar/img/canal2-header-1100X200.jpg",Canal 2 Misiones OP2
-https://nd106.republicaservers.com:4433/hls/canal2misioness/2_1/index.m3u8?tkn=3835380227
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal21tv.com.ar/images/logo.png" group-title="MISIONES", CANAL 21 POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C6P.png" group-title="MISIONES", Noticias del 6 TV 
