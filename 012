@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina.xml" user-agent="Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/argentina.xml"
  
 
 
@@ -27,12 +27,11 @@ https://stream.farra.com.py/live/farra_src.m3u8
 
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=589f5b6f4afec0b3362cd6be2ab1eb36:6d685f3151730ca6a4be7765a46d30a5
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="Nacional",TV Pública 
-https://edge-mix03-cte.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjUyMjk3Iiwic2lwIjoiMTY4LjE5Ny4yMTguMjciLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlMmY3YzYwODAyMjA3YWUxIiwic2Vzc2lvbl9pZCI6ImE4ZjAwOWZlNDNmYjg2ODYyNmU4NzgyMzY1MDI1YzU2LTE3OTM0Nzk0OTctNDIzIiwiY2xpZW50X2lkIjoiZmxvdzo4MTc1ODktLWZsb3c6ODE3NTg5OlAiLCJkZXZpY2VfaWQiOiJhOGYwMDlmZTQzZmI4Njg2MjZlODc4MjM2NTAyNWM1NiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMyOCIsInNvdXJjZXMiOls3Nyw4NSwxNDQsMjEwLDg2LDg4XX0=.dBAZQoAYO8UZQ2DIs-OaUoF0o_N39hFaPeXWlnj89frE7Jt1cco31622QkQPGtEraQ8r3KRyWbX1QAD7jvSVrw==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
+https://edge-mix03-cte.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjUyMjk3Iiwic2lwIjoiMTY4LjE5Ny4yMTguMjciLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlMmY3YzYwODAyMjA3YWUxIiwic2Vzc2lvbl9pZCI6ImE4ZjAwOWZlNDNmYjg2ODYyNmU4NzgyMzY1MDI1YzU2LTE3OTM0Nzk0OTctNDIzIiwiY2xpZW50X2lkIjoiZmxvdzo4MTc1ODktLWZsb3c6ODE3NTg5OlAiLCJkZXZpY2VfaWQiOiJhOGYwMDlmZTQzZmI4Njg2MjZlODc4MjM2NTAyNWM1NiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMyOCIsInNvdXJjZXMiOls3Nyw4NSwxNDQsMjEwLDg2LDg4XX0=.dBAZQoAYO8UZQ2DIs-OaUoF0o_N39hFaPeXWlnj89frE7Jt1cco31622QkQPGtEraQ8r3KRyWbX1QAD7jvSVrw==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
