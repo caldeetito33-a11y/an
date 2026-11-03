@@ -4117,9 +4117,252 @@ https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8
 #EXTINF:-1 tvg-name="XPRESSTV" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/036.webp" group-title="PARAGUAY TV",XPRESSTV
 https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS (+18)" tvg-logo="https://i.ibb.co/TwSHmyK/Whats-App-Image-2024-03-22-at-14-36-30.jpg" group-title="24/7",24/7 | LOS SIMPSONS 
+http://ambar.city:8080/live/12812507396/270222zero/34446.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  RICK AND MORTY (+18)" tvg-logo="https://i.ibb.co/df0hRnJ/Whats-App-Image-2024-03-22-at-14-36-30-1.jpg" group-title="24/7",24/7 |  RICK AND MORTY 
+http://ambar.city:8080/live/12812507396/270222zero/34461.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/2Skq6z4/Whats-App-Image-2024-03-22-at-14-36-31-2.jpg" group-title="24/7",24/7 | ALF
+http://ambar.city:8080/live/12812507396/270222zero/34469.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHAVO DEL 8" tvg-logo="https://i.ibb.co/YpSKcg7/Whats-App-Image-2024-03-22-at-14-36-31-3.jpg" group-title="24/7",24/7 | CHAVO DEL 8
+http://ambar.city:8080/live/12812507396/270222zero/34470.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://i.ibb.co/fGZmQDQ/Whats-App-Image-2024-04-10-at-20-30-31.jpg" group-title="24/7",24/7 | CHESPIRITO
+http://ambar.city:8080/live/12812507396/270222zero/34471.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SOUTH PARK (+18)" tvg-logo="https://i.ibb.co/y5rMvR1/Whats-App-Image-2024-03-22-at-14-36-31-4.jpg" group-title="24/7",24/7 | SOUTH PARK (+18)
+http://ambar.city:8080/live/12812507396/270222zero/34474.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
+http://ambar.city:8080/live/12812507396/270222zero/34479.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY" tvg-logo="https://i.ibb.co/rwSY4Cp/Whats-App-Image-2024-04-10-at-20-35-09.jpg" group-title="24/7",24/7 | THE BIG BANG THEORY
+http://ambar.city:8080/live/12812507396/270222zero/34480.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MARVEL" tvg-logo="https://i.ibb.co/NSfWw9W/Whats-App-Image-2024-04-10-at-20-41-02.jpg" group-title="24/7",24/7 MARVEL
+http://ambar.city:8080/live/12812507396/270222zero/34483.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GAME OF THRONES" tvg-logo="https://i.ibb.co/7JQDd3P/Whats-App-Image-2024-03-22-at-14-36-33-2.jpg" group-title="24/7",24/7 | GAME OF THRONES
+http://ambar.city:8080/live/12812507396/270222zero/34490.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="https://i.ibb.co/C8j5S7D/Whats-App-Image-2024-04-10-at-20-47-11.jpg" group-title="24/7",24/7 CANTINFLAS
+http://ambar.city:8080/live/12812507396/270222zero/34493.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="https://i.ibb.co/QK63L8b/Whats-App-Image-2024-03-22-at-14-36-33-3.jpg" group-title="24/7",24/7  THE WALKING DEAD
+http://ambar.city:8080/live/12812507396/270222zero/37304.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="https://i.ibb.co/vw4RW6v/Whats-App-Image-2024-03-22-at-14-36-36.jpg" group-title="24/7",24/7 BREAKING  BAD
+http://ambar.city:8080/live/12812507396/270222zero/37307.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CASO CERRADO" tvg-logo="https://i.ibb.co/HY3nHnx/Whats-App-Image-2024-04-10-at-21-00-11.jpg" group-title="24/7",24/7 CASO CERRADO
+http://ambar.city:8080/live/12812507396/270222zero/37310.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="https://i.ibb.co/8K7zk94/Whats-App-Image-2024-04-10-at-21-05-49.jpg" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://ambar.city:8080/live/12812507396/270222zero/37314.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (+18)" tvg-logo="https://i.ibb.co/16F2dGp/Whats-App-Image-2024-03-22-at-14-36-36-2.jpg" group-title="24/7",24/7 FUTURAMA (+18)
+http://ambar.city:8080/live/12812507396/270222zero/37319.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://ambar.city:8080/live/12812507396/270222zero/37327.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MALCOLM IN THE MIDDLE" tvg-logo="https://i.ibb.co/0Xp9DcF/Whats-App-Image-2024-03-22-at-14-36-36-3.jpg" group-title="24/7",24/7 MALCOLM IN THE MIDDLE
+http://ambar.city:8080/live/12812507396/270222zero/37330.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR BEAN" tvg-logo="https://i.ibb.co/tm7c5g6/Whats-App-Image-2024-03-22-at-14-36-37.jpg" group-title="24/7",24/7 MR BEAN
+http://ambar.city:8080/live/12812507396/270222zero/37333.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MI BELLA GENIO" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7",24/7 MI BELLA GENIO
+http://ambar.city:8080/live/12812507396/270222zero/76660.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL JUEGO DEL CALAMAR" tvg-logo="https://i.ibb.co/DCDPkjV/Whats-App-Image-2024-03-22-at-14-36-37-3.jpg" group-title="24/7",24/7 EL JUEGO DEL CALAMAR
+http://ambar.city:8080/live/12812507396/270222zero/149074.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PRINCIPE DEL RAP" tvg-logo="https://i.ibb.co/HFNdFzd/Whats-App-Image-2024-03-22-at-14-36-38.jpg" group-title="24/7",24/7 EL PRINCIPE DEL RAP
+http://ambar.city:8080/live/12812507396/270222zero/149076.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="https://i.ibb.co/Z8KrZm0/Whats-App-Image-2024-03-22-at-14-36-38-1.jpg" group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://ambar.city:8080/live/12812507396/270222zero/149077.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGER" tvg-logo="https://i.ibb.co/gRqKcqQ/Whats-App-Image-2024-03-22-at-14-36-38-2.jpg" group-title="24/7",24/7 POWER RANGER
+http://ambar.city:8080/live/12812507396/270222zero/149078.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÑOR DE LOS ANILLOS" tvg-logo="https://i.ibb.co/qm6875T/Whats-App-Image-2024-03-22-at-14-36-38-3.jpg" group-title="24/7",24/7 EL SEÑOR DE LOS ANILLOS
+http://ambar.city:8080/live/12812507396/270222zero/149079.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EXPONIENDO INFIELES" tvg-logo="https://i.ibb.co/4Zn410pG/exponiendo.png" group-title="24/7",24/7 EXPONIENDO INFIELES
+http://ambar.city:8080/live/12812507396/270222zero/149081.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TRANSFORMERS" tvg-logo="https://i.ibb.co/G5pbVYR/Whats-App-Image-2024-03-22-at-14-36-38-4.jpg" group-title="24/7",24/7: TRANSFORMERS
+http://ambar.city:8080/live/12812507396/270222zero/162045.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 COBRA KAI" tvg-logo="https://i.ibb.co/QrBCwMr/Whats-App-Image-2024-03-22-at-14-36-39.jpg" group-title="24/7",24/7 COBRA KAI
+http://ambar.city:8080/live/12812507396/270222zero/176607.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL ZORRO (1956)" tvg-logo="https://i.ibb.co/XjMg8cP/Whats-App-Image-2024-03-22-at-14-36-39-1.jpg" group-title="24/7",24/7 EL ZORRO (1956)
+http://ambar.city:8080/live/12812507396/270222zero/176608.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH" tvg-logo="https://i.ibb.co/QcpZnqK/Whats-App-Image-2024-03-22-at-14-36-39-2.jpg" group-title="24/7",24/7 BAYWATCH
+http://ambar.city:8080/live/12812507396/270222zero/176609.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FRIENDS" tvg-logo="https://i.ibb.co/5MZbcjZ/Whats-App-Image-2024-03-22-at-14-36-39-3.jpg" group-title="24/7",24/7 FRIENDS
+http://ambar.city:8080/live/12812507396/270222zero/184490.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALERTA AEROPUERTO" tvg-logo="https://i.ibb.co/2cV36qt/Whats-App-Image-2024-04-10-at-20-26-05.jpg" group-title="24/7",24/7 ALERTA AEROPUERTO
+http://ambar.city:8080/live/12812507396/270222zero/184492.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MACGIVER" tvg-logo="https://i.ibb.co/5s6TWMc/Whats-App-Image-2024-03-22-at-14-36-40.jpg" group-title="24/7",24/7 MACGIVER
+http://ambar.city:8080/live/12812507396/270222zero/184493.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL BUEN DOCTOR" tvg-logo="https://i.ibb.co/qMwL8vg/Whats-App-Image-2024-03-22-at-14-36-40-1.jpg" group-title="24/7",24/7 EL BUEN DOCTOR
+http://ambar.city:8080/live/12812507396/270222zero/184494.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DOCTOR WHO" tvg-logo="https://i.ibb.co/86QtrTv/Whats-App-Image-2024-03-22-at-14-36-40-2.jpg" group-title="24/7",24/7 DOCTOR WHO
+http://ambar.city:8080/live/12812507396/270222zero/184495.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS MAGNIFICOS" tvg-logo="https://salondelmal.com/wp-content/uploads/2015/09/a-team.png" group-title="24/7",LOS MAGNIFICOS
+http://ambar.city:8080/live/12812507396/270222zero/216282.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE LOS DIBUJOS (+18)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/eb0927966da2645c025317508aeb70b3ff25d663967c2b8444ebf86e0f6dbd21.jpg" group-title="24/7",24/7 LA CASA DE LOS DIBUJOS (+18)
+http://ambar.city:8080/live/12812507396/270222zero/257033.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkNdUrCemjx9LTK1bTeuIvkmgqkTIQd-hnA&s" group-title="24/7",24/7 STRANGER THINGS
+http://ambar.city:8080/live/12812507396/270222zero/257038.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CARTEL DE LOS SAPOS" tvg-logo="https://m.media-amazon.com/images/I/81sXMp8rV6L._AC_UF894,1000_QL80_.jpg" group-title="24/7",24/7 CARTEL DE LOS SAPOS
+http://ambar.city:8080/live/12812507396/270222zero/257042.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="https://cdn.worldvectorlogo.com/logos/rocky-1.svg" group-title="24/7",24/7 ROCKY
+http://ambar.city:8080/live/12812507396/270222zero/269704.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS 3 CHIFLADOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTJr8ouuraplaAGQ4owNOddpXWSMIORebQ7jA4LfaYicOY5WsA60UHHM&s=10" group-title="24/7",24/7 LOS 3 CHIFLADOS
+http://ambar.city:8080/live/12812507396/270222zero/269707.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATRON DEL MAL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7",24/7 EL PATRON DEL MAL
+http://ambar.city:8080/live/12812507396/270222zero/281237.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AUTOS LOCOS" tvg-logo="https://i.pinimg.com/originals/6b/6d/37/6b6d3721f3982d15941a841908806d5e.png" group-title="24/7 INFANTIL",24/7 AUTOS LOCOS
+http://ambar.city:8080/live/12812507396/270222zero/389301.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PIXIE, DIXIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvBtJzKunqzE9EmPTAMCFpHeB3h0H_SI2-Hzj-_9NiJO_sBV0fMDi3Cg9&s=10" group-title="24/7 INFANTIL",24/7 PIXIE, DIXIE
+http://ambar.city:8080/live/12812507396/270222zero/389266.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MAGUILA GORILA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZlcwzPXgFPbiuo2iwKiCk1PlN6JZOP0PxKtChoh1gQ&s" group-title="24/7 INFANTIL",24/7 MAGUILA GORILA
+http://ambar.city:8080/live/12812507396/270222zero/389269.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DON GATO Y SU PANDILLA" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a3/308360-topcat_large.png/revision/latest?cb=20130716205723&path-prefix=es" group-title="24/7 INFANTIL",24/7 DON GATO Y SU PANDILLA
+http://ambar.city:8080/live/12812507396/270222zero/389272.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PLIM PLIM" tvg-logo="https://i.pinimg.com/564x/e6/7a/8a/e67a8ae0ac8ac494c9db935a5514dd3e.jpg" group-title="24/7 INFANTIL",24/7 PLIM PLIM
+http://ambar.city:8080/live/12812507396/270222zero/387110.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  SCOOBY DOO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-hsS3rReR6hjzwDxdlG1rssq0GUOc7PmMUHMIDF5dmGhv5Nebom1qzI3&s=10" group-title="24/7 INFANTIL",24/7 |  SCOOBY DOO
+http://ambar.city:8080/live/12812507396/270222zero/34368.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOM AND JERRY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdi0sBKkrV2utznWlmLu2OOZq9K0tVyfEav083nEpvZk8jGih-UpBEA68Y&s=10" group-title="24/7 INFANTIL",24/7 | TOM AND JERRY
+http://ambar.city:8080/live/12812507396/270222zero/34373.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://i.ibb.co/5cbZ8FN/Whats-App-Image-2024-03-21-at-19-45-04-1.jpg" group-title="24/7 INFANTIL",24/7 | BOB ESPONJA
+http://ambar.city:8080/live/12812507396/270222zero/34376.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DORAEMON" tvg-logo="https://i.ibb.co/1zYSn5p/Whats-App-Image-2024-03-21-at-19-45-05.jpg" group-title="24/7 INFANTIL",24/7 | DORAEMON
+http://ambar.city:8080/live/12812507396/270222zero/34379.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL PAJARO LOCO" tvg-logo="https://i.ibb.co/Df10JYW/Whats-App-Image-2024-03-21-at-19-45-05-1.jpg" group-title="24/7 INFANTIL",24/7 | EL PAJARO LOCO
+http://ambar.city:8080/live/12812507396/270222zero/34380.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | HEY ARNOLD" tvg-logo="https://makerworld.bblmw.com/makerworld/model/US7f2de8ef4c1b55/design/6b7d379e228de4ce.jpg?x-oss-process=image/resize,w_1200/ignore-error,1" group-title="24/7 INFANTIL",24/7 | HEY ARNOLD
+http://ambar.city:8080/live/12812507396/270222zero/34381.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOONEY TUNES" tvg-logo="https://i.ibb.co/t3sqMPf/Whats-App-Image-2024-03-21-at-19-51-55-1.jpg" group-title="24/7 INFANTIL",24/7 | LOONEY TUNES
+http://ambar.city:8080/live/12812507396/270222zero/34382.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PICAPIEDRAS" tvg-logo="https://static.wikia.nocookie.net/hanna-barbera/images/0/0f/416-4167243_car-in-the-flintstones-hd-png-download.png/revision/latest?cb=20210803225923&path-prefix=es" group-title="24/7 INFANTIL",24/7 | LOS PICAPIEDRAS
+http://ambar.city:8080/live/12812507396/270222zero/34386.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ANIMANIACS" tvg-logo="https://i.ibb.co/pKLdDnp/Whats-App-Image-2024-03-21-at-19-51-56-1.jpg" group-title="24/7 INFANTIL",24/7 | ANIMANIACS
+http://ambar.city:8080/live/12812507396/270222zero/34388.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HE-MAN" tvg-logo="https://i.ibb.co/ByHYydw/Whats-App-Image-2024-03-21-at-20-46-37.jpg" group-title="24/7 INFANTIL",24/7 HE-MAN
+http://ambar.city:8080/live/12812507396/270222zero/34402.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MEGAMAN" tvg-logo="https://i.ibb.co/NrX8dbp/Whats-App-Image-2024-03-21-at-20-46-38.jpg" group-title="24/7 INFANTIL",24/7 | MEGAMAN
+http://ambar.city:8080/live/12812507396/270222zero/34453.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  LOS CABALLEROS DEL ZODIACO" tvg-logo="https://i.ibb.co/jWMjP17/Whats-App-Image-2024-03-21-at-20-46-38-1.jpg" group-title="24/7 INFANTIL",24/7 |  LOS CABALLEROS DEL ZODIACO
+http://ambar.city:8080/live/12812507396/270222zero/34465.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO ANIMADO" tvg-logo="https://i.ibb.co/64PC6gv/Whats-App-Image-2024-03-21-at-22-30-30.jpg" group-title="24/7 INFANTIL",24/7 | EL CHAVO ANIMADO
+http://ambar.city:8080/live/12812507396/270222zero/34477.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SAMURAI X" tvg-logo="https://i.ibb.co/f9y9k7v/Whats-App-Image-2024-03-21-at-20-46-39.jpg" group-title="24/7 INFANTIL",24/7 | SAMURAI X
+http://ambar.city:8080/live/12812507396/270222zero/34485.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | NARUTO" tvg-logo="https://i.ibb.co/ng2gPGL/Whats-App-Image-2024-03-21-at-21-20-42.jpg" group-title="24/7 INFANTIL",24/7 | NARUTO
+http://ambar.city:8080/live/12812507396/270222zero/34486.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="https://i.ibb.co/5rpS0sf/Whats-App-Image-2024-03-21-at-21-20-43.jpg" group-title="24/7 INFANTIL",24/7 ROBOTECH
+http://ambar.city:8080/live/12812507396/270222zero/37338.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="https://i.ibb.co/GMHj9g0/Whats-App-Image-2024-03-21-at-21-20-43-1.jpg" group-title="24/7 INFANTIL",24/7 SAILOR MOON
+http://ambar.city:8080/live/12812507396/270222zero/37339.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="https://i.ibb.co/7Wndhp3/Whats-App-Image-2024-03-21-at-21-20-44.jpg" group-title="24/7 INFANTIL",24/7 SPIDER-MAN
+http://ambar.city:8080/live/12812507396/270222zero/37344.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="https://i.ibb.co/m0NK7Qj/Whats-App-Image-2024-03-21-at-22-05-50.jpg" group-title="24/7 INFANTIL",24/7 SUPER CAMPEONES
+http://ambar.city:8080/live/12812507396/270222zero/37346.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCATS" tvg-logo="https://i.ibb.co/c2zX4L6/Whats-App-Image-2024-03-21-at-22-05-53.jpg" group-title="24/7 INFANTIL",24/7 THUNDERCATS
+http://ambar.city:8080/live/12812507396/270222zero/37347.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="https://i.ibb.co/6m0GpNC/Whats-App-Image-2024-03-21-at-22-05-54-1.jpg" group-title="24/7 INFANTIL",24/7  CORAJE EL PERRO COBARDE
+http://ambar.city:8080/live/12812507396/270222zero/37358.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS" tvg-logo="https://i.ibb.co/G0jw5Qn/Whats-App-Image-2024-03-21-at-22-05-55.jpg" group-title="24/7 INFANTIL",24/7  DINOSAURIOS
+http://ambar.city:8080/live/12812507396/270222zero/37360.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJUUDGH1h9BDrL3E_3CgblmkNzt1w_1s9Ss5iLRo-Ug&s=10" group-title="24/7 INFANTIL",24/7  DRAGON BALL
+http://ambar.city:8080/live/12812507396/270222zero/37361.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN ANIMADO" tvg-logo="https://i.ibb.co/m0QVW1D/Whats-App-Image-2024-03-21-at-22-05-56-1.jpg" group-title="24/7 INFANTIL",24/7 BATMAN ANIMADO
+http://ambar.city:8080/live/12812507396/270222zero/37363.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/t3zBp8Z/Whats-App-Image-2024-03-21-at-22-05-57-1.jpg" group-title="24/7 INFANTIL",24/7 DRAGON BALL SUPER
+http://ambar.city:8080/live/12812507396/270222zero/37367.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z" tvg-logo="https://i.ibb.co/8Xt8v7Q/Whats-App-Image-2024-03-21-at-22-05-58.jpg" group-title="24/7 INFANTIL",24/7 DRAGON BALL Z
+http://ambar.city:8080/live/12812507396/270222zero/37368.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HEROES EN PIJAMAS" tvg-logo="https://i.pinimg.com/564x/5e/43/12/5e4312dc7dc9f3da9455c7605b912fc3.jpg" group-title="24/7 INFANTIL",24/7 HEROES EN PIJAMAS
+http://ambar.city:8080/live/12812507396/270222zero/37370.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="https://i.ibb.co/k3n4Tg0/Whats-App-Image-2024-03-21-at-22-05-59.jpg" group-title="24/7 INFANTIL",24/7 LA PANTERA ROSA
+http://ambar.city:8080/live/12812507396/270222zero/37371.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kxhGNYtZLkDy682dfACSQYnwE69JHKgfjYyLCilGLcyqA=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 INFANTIL",24/7 LAZY TOWN
+http://ambar.city:8080/live/12812507396/270222zero/37372.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="https://i.ibb.co/P4TYhvh/Whats-App-Image-2024-03-21-at-22-06-00.jpg" group-title="24/7 INFANTIL",24/7 PEPPA PIG
+http://ambar.city:8080/live/12812507396/270222zero/37376.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY Y CEREBRO" tvg-logo="https://i.ibb.co/9YsqSz2/Whats-App-Image-2024-03-21-at-22-06-00-1.jpg" group-title="24/7 INFANTIL",24/7 PINKY Y CEREBRO
+http://ambar.city:8080/live/12812507396/270222zero/37377.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON" tvg-logo="https://i.ibb.co/2FssnPC/Whats-App-Image-2024-03-21-at-22-06-01.jpg" group-title="24/7 INFANTIL",24/7 POKEMON
+http://ambar.city:8080/live/12812507396/270222zero/37378.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE MICKEY MOUSE" tvg-logo="https://i.ibb.co/H4Q5rPv/Whats-App-Image-2024-03-21-at-22-06-01-1.jpg" group-title="24/7 INFANTIL",24/7 LA CASA DE MICKEY MOUSE
+http://ambar.city:8080/live/12812507396/270222zero/165879.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CAPITAN PLANETA" tvg-logo="https://i.ibb.co/jJDYdFN/Whats-App-Image-2024-03-21-at-22-06-02.jpg" group-title="24/7 INFANTIL",24/7 CAPITAN PLANETA
+http://ambar.city:8080/live/12812507396/270222zero/176606.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEN 10" tvg-logo="https://i.pinimg.com/474x/fb/0c/4a/fb0c4a3030248ab915893f26d651f8d3.jpg" group-title="24/7 INFANTIL",24/7 BEN 10
+http://ambar.city:8080/live/12812507396/270222zero/176610.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LIGA DE LA JUSTICIA" tvg-logo="https://images.justwatch.com/poster/242880978/s592" group-title="24/7 INFANTIL",24/7 LIGA DE LA JUSTICIA
+http://ambar.city:8080/live/12812507396/270222zero/219632.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAS CHICAS SUPERPODEROSAS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n8M0tl1V2QYRLbs3hPQfJgQgTgT.jpg" group-title="24/7 INFANTIL",24/7 LAS CHICAS SUPERPODEROSAS
+http://ambar.city:8080/live/12812507396/270222zero/223925.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUEY" tvg-logo="https://i.ibb.co/k6yVTY1f/BLUEY.png" group-title="24/7 INFANTIL",24/7 BLUEY
+http://ambar.city:8080/live/12812507396/270222zero/224858.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GASPARIN" tvg-logo="https://i.ytimg.com/vi/uzncBx1vy4U/hqdefault.jpg" group-title="24/7 INFANTIL",24/7 GASPARIN
+http://ambar.city:8080/live/12812507396/270222zero/257031.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POCOYO" tvg-logo="https://play-lh.googleusercontent.com/dWrW0nlCmuXSixFX_L0dVU1selWd8oWfLXwyEOa-kRlkhr7RlR8EXQ9zaq95X41k0WMU" group-title="24/7 INFANTIL",24/7 POCOYO
+http://ambar.city:8080/live/12812507396/270222zero/257034.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DIGIMON" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/97/DigimonAdventure.jpg/revision/latest?cb=20230118001014&path-prefix=es" group-title="24/7 INFANTIL",24/7 DIGIMON
+http://ambar.city:8080/live/12812507396/270222zero/257035.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JIMMY NEUTRON" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGRjNTcxM2EtZTA0YS00MDAxLWIwYjktMTcxMDNjMmUxOWFhXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTIL",24/7 JIMMY NEUTRON
+http://ambar.city:8080/live/12812507396/270222zero/257036.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TEEN TITANS GO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/d9/Teen_Titans_Go%21_TV_Series.jpg/revision/latest?cb=20211209001348" group-title="24/7 INFANTIL",24/7 TEEN TITANS GO
+http://ambar.city:8080/live/12812507396/270222zero/257037.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MASHA Y EL OSO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNYu6Y0Vrw6PXYmX08ZP8w9mK7TYtIoqLPA&s" group-title="24/7 INFANTIL",24/7 MASHA Y EL OSO
+http://ambar.city:8080/live/12812507396/270222zero/257039.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL LABORATORIO DE DEXTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKmxhP4nZXAEqNMqlhtJmVTonbSgRs76I6A&s" group-title="24/7 INFANTIL",24/7 EL LABORATORIO DE DEXTER
+http://ambar.city:8080/live/12812507396/270222zero/257040.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA MASCARA" tvg-logo="https://i.ibb.co/gbzqMGK1/lamask.png" group-title="24/7 INFANTIL",24/7 LA MASCARA
+http://ambar.city:8080/live/12812507396/270222zero/257043.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT" tvg-logo="https://i.ibb.co/4p54gtr/Whats-App-Image-2024-03-21-at-22-05-57.jpg" group-title="24/7 INFANTIL",24/7 DRAGON BALL GT
+http://ambar.city:8080/live/12812507396/270222zero/37366.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 01
+http://ambar.city:8080/live/12812507396/270222zero/196524.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 02
+http://ambar.city:8080/live/12812507396/270222zero/196525.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 03" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 03
+http://ambar.city:8080/live/12812507396/270222zero/196526.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 04" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 04
+http://ambar.city:8080/live/12812507396/270222zero/196527.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 05" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 05
+http://ambar.city:8080/live/12812507396/270222zero/196528.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 06" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 06
+http://ambar.city:8080/live/12812507396/270222zero/196529.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 07" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 07
+http://ambar.city:8080/live/12812507396/270222zero/196530.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 08" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 08
+http://ambar.city:8080/live/12812507396/270222zero/196531.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 09" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 09
+http://ambar.city:8080/live/12812507396/270222zero/196532.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 10" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 10
+http://ambar.city:8080/live/12812507396/270222zero/196533.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 11" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 11
+http://ambar.city:8080/live/12812507396/270222zero/196534.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 12" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 12
+http://ambar.city:8080/live/12812507396/270222zero/196535.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 13" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 13
+http://ambar.city:8080/live/12812507396/270222zero/196536.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 14" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 14
+http://ambar.city:8080/live/12812507396/270222zero/196537.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 15" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 15
+http://ambar.city:8080/live/12812507396/270222zero/196538.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 16" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 16
+http://ambar.city:8080/live/12812507396/270222zero/196539.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 17" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 17
+http://ambar.city:8080/live/12812507396/270222zero/196540.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 18" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 18
+http://ambar.city:8080/live/12812507396/270222zero/196541.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 19" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 19
+http://ambar.city:8080/live/12812507396/270222zero/196542.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 20" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 20
+http://ambar.city:8080/live/12812507396/270222zero/196543.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 21" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 21
+http://ambar.city:8080/live/12812507396/270222zero/196544.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 22" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 22
+http://ambar.city:8080/live/12812507396/270222zero/196545.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 23" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 23
+http://ambar.city:8080/live/12812507396/270222zero/196546.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 24
+http://ambar.city:8080/live/12812507396/270222zero/196547.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 25" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 25
+http://ambar.city:8080/live/12812507396/270222zero/196548.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 26" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 26
+http://ambar.city:8080/live/12812507396/270222zero/196549.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 27" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 27
+http://ambar.city:8080/live/12812507396/270222zero/196550.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 28" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 28
+http://ambar.city:8080/live/12812507396/270222zero/196551.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 29" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 29
+http://ambar.city:8080/live/12812507396/270222zero/196552.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE 30" tvg-logo="https://i.ibb.co/ctDXGDw/Whats-App-Image-2024-03-21-at-18-52-04.jpg" group-title="CINE 24/7",CINE 30
+http://ambar.city:8080/live/12812507396/270222zero/196553.ts
 
